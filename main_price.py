@@ -7,12 +7,12 @@ import os
 from datetime import datetime
 
 # --- KONSTANTA ---
-APPS_SCRIPT_URL = os.environ.get("APPS_SCRIPT_PRICE_URL", "https://script.google.com/macros/s/AKfycbwu0GTeV9Qtdip_TtI-gYh-vR0bcquQSG3Mo0tVhyt8EWWkd3rEisv9xO9BNOfGeTAO/exec")
+APPS_SCRIPT_URL = os.environ.get("APPS_SCRIPT_PRICE_URL", "https://script.google.com/macros/s/AKfycbw4YJNU0Z5fP5h50vXN-nZar7lh435kRTLjyKzZ6IPZaco87G242aRLL1atMgh4GQE/exec")
 KEYWORDS = ["cimory", "kanzler"]
 API_URL = "https://webcommerce-gw.alfagift.id/v2/products/searches"
 MAX_RETRIES = 3
 RETRY_DELAY = 5
-OUTPUT_DIR = "data" # Folder untuk menyimpan file JSON per branch
+OUTPUT_DIR = "data"
 
 STATIC_HEADERS = {
     'accept': 'application/json', 'accept-language': 'id', 'devicemodel': 'chrome',
@@ -48,7 +48,7 @@ def make_api_request(store_info, token, keyword):
     return None
 
 def main():
-    print("Memulai Scraper Harga (Versi JSON Branch)...")
+    print("Memulai Scraper Harga (Versi Store Index)...")
     try:
         config = requests.get(APPS_SCRIPT_URL, timeout=30).json()
     except Exception as e:
@@ -64,13 +64,12 @@ def main():
         print("Config tidak lengkap. Keluar.")
         return
 
-    # Untuk Google Sheet
     sheet_data = []
     header_row = ["Tanggal", "Kode Toko", "Nama Toko", "Cabang", "ID Produk", "Nama Produk", "Harga Normal", "Harga Promo", "Branch Name", "MDS Name"]
     sheet_data.append(header_row)
     
-    # Untuk JSON per Branch
-    branch_data_map = {} # { 'MANADO': [ {product_info}, ... ], ... }
+    branch_data_map = {}
+    store_index_map = {} 
 
     current_date = datetime.now().strftime('%Y-%m-%d')
     token_idx = 0
@@ -85,11 +84,15 @@ def main():
             
             b_name = store.get('branch_name', 'N/A').strip().upper()
             m_name = store.get('mds_name', 'N/A')
-            
-            if b_name not in branch_data_map:
-                branch_data_map[b_name] = {} # Menggunakan dict {store_code: {products}} untuk memudahkan grouping
-
             store_id = store['store_code']
+            
+            branch_filename = f"{b_name.replace(' ', '_')}.json"
+            
+            store_index_map[store_id] = branch_filename
+
+            if b_name not in branch_data_map:
+                branch_data_map[b_name] = {}
+
             if store_id not in branch_data_map[b_name]:
                 branch_data_map[b_name][store_id] = {
                     "store_code": store_id,
@@ -114,13 +117,11 @@ def main():
 
                             ids = product_map[name]
                             for pid in ids:
-                                # Data untuk Sheet
                                 sheet_data.append([
                                     current_date, store_id, store['store_name'], store['fc_code'],
                                     pid, name, harga_normal, harga_promo, b_name, m_name
                                 ])
                                 
-                                # Data untuk JSON
                                 branch_data_map[b_name][store_id]["products"].append({
                                     "id": pid,
                                     "name": name,
@@ -133,23 +134,24 @@ def main():
             time.sleep(random.uniform(1, 2))
         time.sleep(random.uniform(2, 3))
 
-    # --- SAVE TO JSON ---
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
     
     print(f"\nMenyimpan data JSON ke folder '{OUTPUT_DIR}'...")
     for branch, store_dict in branch_data_map.items():
-        filename = f"{branch.replace(' ', '_')}.json" # Ganti spasi dengan underscore
+        filename = f"{branch.replace(' ', '_')}.json"
         filepath = os.path.join(OUTPUT_DIR, filename)
-        
-        # Konversi dict toko ke list untuk JSON akhir
         final_branch_list = list(store_dict.values())
-        
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(final_branch_list, f, indent=2, ensure_ascii=False)
         print(f"- {filepath} berhasil dibuat.")
 
-    # --- SEND TO GOOGLE SHEET ---
+    index_filepath = os.path.join(OUTPUT_DIR, "store_index.json")
+    print(f"\nMenyimpan Index Toko ke '{index_filepath}'...")
+    with open(index_filepath, 'w', encoding='utf-8') as f:
+        json.dump(store_index_map, f, indent=2, ensure_ascii=False)
+    print(f"- {index_filepath} berhasil dibuat.")
+
     print(f"\nMengirim {len(sheet_data)-1} baris ke Google Sheet...")
     try:
         res = requests.post(APPS_SCRIPT_URL, json={'data': sheet_data}, timeout=120)
