@@ -1,0 +1,30 @@
+name: Alfagift Price Scraper
+
+on:
+  schedule:
+    - cron: '0 21 * * *' # Runs daily at 04:00 AM WIB (21:00 UTC)
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  scrape_price:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run price scraper script
+      run: python main_price.py
+      env:
+        APPS_SCRIPT_PRICE_URL: ${{ secrets.APPS_SCRIPT_PRICE_URL }}
