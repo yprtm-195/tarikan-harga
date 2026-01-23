@@ -7,13 +7,12 @@ import os
 from datetime import datetime
 
 # --- KONSTANTA ---
-# Masukkan URL Apps Script Harga lu di GitHub Secrets nanti
 APPS_SCRIPT_URL = os.environ.get("APPS_SCRIPT_PRICE_URL", "https://script.google.com/macros/s/AKfycbwu0GTeV9Qtdip_TtI-gYh-vR0bcquQSG3Mo0tVhyt8EWWkd3rEisv9xO9BNOfGeTAO/exec")
-
 KEYWORDS = ["cimory", "kanzler"]
 API_URL = "https://webcommerce-gw.alfagift.id/v2/products/searches"
 MAX_RETRIES = 3
 RETRY_DELAY = 5
+OUTPUT_DIR = "data" # Folder untuk menyimpan file JSON per branch
 
 STATIC_HEADERS = {
     'accept': 'application/json', 'accept-language': 'id', 'devicemodel': 'chrome',
@@ -49,7 +48,7 @@ def make_api_request(store_info, token, keyword):
     return None
 
 def main():
-    print("Memulai Scraper Harga (Versi Updated)...")
+    print("Memulai Scraper Harga (Versi JSON Branch)...")
     try:
         config = requests.get(APPS_SCRIPT_URL, timeout=30).json()
     except Exception as e:
@@ -65,14 +64,14 @@ def main():
         print("Config tidak lengkap. Keluar.")
         return
 
-    final_data = []
-    # Header diperbarui dengan Branch Name dan MDS Name
-    header_row = [
-        "Tanggal", "Kode Toko", "Nama Toko", "Cabang", "ID Produk", 
-        "Nama Produk", "Harga Normal", "Harga Promo", "Branch Name", "MDS Name"
-    ]
-    final_data.append(header_row)
+    # Untuk Google Sheet
+    sheet_data = []
+    header_row = ["Tanggal", "Kode Toko", "Nama Toko", "Cabang", "ID Produk", "Nama Produk", "Harga Normal", "Harga Promo", "Branch Name", "MDS Name"]
+    sheet_data.append(header_row)
     
+    # Untuk JSON per Branch
+    branch_data_map = {} # { 'MANADO': [ {product_info}, ... ], ... }
+
     current_date = datetime.now().strftime('%Y-%m-%d')
     token_idx = 0
 
@@ -84,10 +83,24 @@ def main():
             token_idx += 1
             store_results_count = 0
             
-            # Ambil data tambahan toko dari config
-            b_name = store.get('branch_name', 'N/A')
+            b_name = store.get('branch_name', 'N/A').strip().upper()
             m_name = store.get('mds_name', 'N/A')
             
+            if b_name not in branch_data_map:
+                branch_data_map[b_name] = {} # Menggunakan dict {store_code: {products}} untuk memudahkan grouping
+
+            store_id = store['store_code']
+            if store_id not in branch_data_map[b_name]:
+                branch_data_map[b_name][store_id] = {
+                    "store_code": store_id,
+                    "store_name": store['store_name'],
+                    "fc_code": store['fc_code'],
+                    "branch_name": b_name,
+                    "mds_name": m_name,
+                    "last_updated": current_date,
+                    "products": []
+                }
+
             for kw in KEYWORDS:
                 api_res = make_api_request(store, token, kw)
                 if api_res and 'products' in api_res:
@@ -96,29 +109,53 @@ def main():
                         if name in filter_names:
                             base_price = p.get('basePrice', 0)
                             final_price = p.get('finalPrice', 0)
-                            
                             harga_normal = base_price
                             harga_promo = final_price if final_price < base_price else ""
 
                             ids = product_map[name]
                             for pid in ids:
-                                final_data.append([
-                                    current_date, store['store_code'], store['store_name'], store['fc_code'],
+                                # Data untuk Sheet
+                                sheet_data.append([
+                                    current_date, store_id, store['store_name'], store['fc_code'],
                                     pid, name, harga_normal, harga_promo, b_name, m_name
                                 ])
+                                
+                                # Data untuk JSON
+                                branch_data_map[b_name][store_id]["products"].append({
+                                    "id": pid,
+                                    "name": name,
+                                    "normal": harga_normal,
+                                    "promo": harga_promo
+                                })
                                 store_results_count += 1
             
-            print(f"Toko {store['store_code']}: {store_results_count} data harga ditarik.")
+            print(f"Toko {store_id}: {store_results_count} data harga ditarik.")
             time.sleep(random.uniform(1, 2))
         time.sleep(random.uniform(2, 3))
 
-    # Kirim ke Apps Script
-    print(f"\nMengirim {len(final_data)-1} baris ke Google Sheet...")
+    # --- SAVE TO JSON ---
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
+    
+    print(f"\nMenyimpan data JSON ke folder '{OUTPUT_DIR}'...")
+    for branch, store_dict in branch_data_map.items():
+        filename = f"{branch.replace(' ', '_')}.json" # Ganti spasi dengan underscore
+        filepath = os.path.join(OUTPUT_DIR, filename)
+        
+        # Konversi dict toko ke list untuk JSON akhir
+        final_branch_list = list(store_dict.values())
+        
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(final_branch_list, f, indent=2, ensure_ascii=False)
+        print(f"- {filepath} berhasil dibuat.")
+
+    # --- SEND TO GOOGLE SHEET ---
+    print(f"\nMengirim {len(sheet_data)-1} baris ke Google Sheet...")
     try:
-        res = requests.post(APPS_SCRIPT_URL, json={'data': final_data}, timeout=120)
+        res = requests.post(APPS_SCRIPT_URL, json={'data': sheet_data}, timeout=120)
         print(f"Respons: {res.text}")
     except Exception as e:
-        print(f"Gagal kirim data: {e}")
+        print(f"Gagal kirim data ke Sheet: {e}")
 
 if __name__ == "__main__":
     main()

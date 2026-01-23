@@ -12,6 +12,8 @@ concurrency:
 jobs:
   scrape_price:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dibutuhkan untuk push file JSON balik ke repo
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
@@ -28,3 +30,12 @@ jobs:
       run: python main_price.py
       env:
         APPS_SCRIPT_PRICE_URL: ${{ secrets.APPS_SCRIPT_PRICE_URL }}
+
+    - name: Commit and push JSON data
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "actions@github.com"
+        git add data/*.json
+        git commit -m "Automated: Update price data JSON per branch" || echo "No changes to commit"
+        git push origin main
+
