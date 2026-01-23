@@ -8,7 +8,8 @@ from datetime import datetime
 
 # --- KONSTANTA ---
 # Masukkan URL Apps Script Harga lu di GitHub Secrets nanti
-APPS_SCRIPT_URL = os.environ.get("APPS_SCRIPT_PRICE_URL", "https://script.google.com/macros/s/AKfycbw4YJNU0Z5fP5h50vXN-nZar7lh435kRTLjyKzZ6IPZaco87G242aRLL1atMgh4GQE/exec")
+APPS_SCRIPT_URL = os.environ.get("APPS_SCRIPT_PRICE_URL", "https://script.google.com/macros/s/AKfycbwu0GTeV9Qtdip_TtI-gYh-vR0bcquQSG3Mo0tVhyt8EWWkd3rEisv9xO9BNOfGeTAO/exec")
+
 KEYWORDS = ["cimory", "kanzler"]
 API_URL = "https://webcommerce-gw.alfagift.id/v2/products/searches"
 MAX_RETRIES = 3
@@ -28,9 +29,10 @@ def encode_base64_json(data_dict):
     return base64.b64encode(json.dumps(data_dict, separators=(',', ':')).encode('utf-8')).decode('utf-8')
 
 def make_api_request(store_info, token, keyword):
+    store_code = store_info['store_code']
     headers = STATIC_HEADERS.copy()
     headers['storecode'] = encode_base64_json({
-        "store_code": store_info['store_code'], "delivery": True, "depo_id": "", "sapa": True,
+        "store_code": store_code, "delivery": True, "depo_id": "", "sapa": True,
         "store_method": 1, "distance": 0, "maxDistance": None, "flagRoute": store_info['flagroute']
     })
     headers['fccode'] = encode_base64_json({"seller_id": "1", "fc_code": store_info['fc_code']})
@@ -42,12 +44,12 @@ def make_api_request(store_info, token, keyword):
             res.raise_for_status()
             return res.json()
         except Exception as e:
-            print(f"Error {store_info['store_code']} {keyword} (Percobaan {attempt+1}): {e}")
+            print(f"Error {store_code} {keyword} (Percobaan {attempt+1}): {e}")
             if attempt < MAX_RETRIES - 1: time.sleep(RETRY_DELAY)
     return None
 
 def main():
-    print("Memulai Scraper Harga...")
+    print("Memulai Scraper Harga (Versi Updated)...")
     try:
         config = requests.get(APPS_SCRIPT_URL, timeout=30).json()
     except Exception as e:
@@ -64,7 +66,11 @@ def main():
         return
 
     final_data = []
-    header_row = ["Tanggal", "Kode Toko", "Nama Toko", "Cabang", "ID Produk", "Nama Produk", "Harga Normal", "Harga Promo"]
+    # Header diperbarui dengan Branch Name dan MDS Name
+    header_row = [
+        "Tanggal", "Kode Toko", "Nama Toko", "Cabang", "ID Produk", 
+        "Nama Produk", "Harga Normal", "Harga Promo", "Branch Name", "MDS Name"
+    ]
     final_data.append(header_row)
     
     current_date = datetime.now().strftime('%Y-%m-%d')
@@ -78,6 +84,10 @@ def main():
             token_idx += 1
             store_results_count = 0
             
+            # Ambil data tambahan toko dari config
+            b_name = store.get('branch_name', 'N/A')
+            m_name = store.get('mds_name', 'N/A')
+            
             for kw in KEYWORDS:
                 api_res = make_api_request(store, token, kw)
                 if api_res and 'products' in api_res:
@@ -87,15 +97,14 @@ def main():
                             base_price = p.get('basePrice', 0)
                             final_price = p.get('finalPrice', 0)
                             
-                            # Logika Harga:
                             harga_normal = base_price
-                            harga_promo = final_price if final_price < base_price else "" # Kosong jika tidak ada promo
+                            harga_promo = final_price if final_price < base_price else ""
 
                             ids = product_map[name]
                             for pid in ids:
                                 final_data.append([
                                     current_date, store['store_code'], store['store_name'], store['fc_code'],
-                                    pid, name, harga_normal, harga_promo
+                                    pid, name, harga_normal, harga_promo, b_name, m_name
                                 ])
                                 store_results_count += 1
             
