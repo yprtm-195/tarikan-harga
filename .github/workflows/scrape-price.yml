@@ -1,9 +1,6 @@
 name: Alfagift Price Scraper
 
 on:
-  schedule:
-    # Runs daily at 21:00 UTC (04:00 WIB / 05:00 WITA)
-    - cron: '0 21 * * *' 
   workflow_dispatch:
 
 concurrency:
