@@ -5,6 +5,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -417,6 +419,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -829,6 +833,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -1241,6 +1247,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -1653,6 +1661,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -2065,6 +2075,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -2176,12 +2188,6 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/STRAWBERRY",
-        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
         "id": "40GR - STICKPACK/ORIGINAL",
         "name": "Cimory Yogurt Stik Rasa Original 40 g",
         "normal": 3200.0,
@@ -2227,6 +2233,12 @@
         "id": "240ML - CYD/MIXED BERRY",
         "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
         "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/STRAWBERRY",
+        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -2477,11 +2489,43 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
-        "id": "240ML - CYD/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/ORIGINAL",
+        "name": "Cimory Yogurt Squeeze Original 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MATCHA",
+        "name": "Cimory Susu UHT Matcha 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
+      },
+      {
+        "id": "240ML - CYD/PLAIN",
+        "name": "Cimory Minuman Yogurt Original 240 ml",
         "normal": 9700.0,
         "promo": ""
       },
@@ -2492,99 +2536,27 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
+        "id": "240ML - CYD/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
         "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/PLAIN",
-        "name": "Cimory Minuman Yogurt Original 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/ORIGINAL",
-        "name": "Cimory Yogurt Squeeze Original 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
-        "normal": 10400.0,
         "promo": ""
       },
       {
         "id": "120GR - SQ BITES/STRAWBERRY",
         "name": "Cimory Yogurt Bites Stroberi 120 g",
         "normal": 8800.0,
-        "promo": 8200.0
+        "promo": 7900.0
       },
       {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8800.0,
-        "promo": 8200.0
-      },
-      {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
-      {
-        "id": "250ML - MILK/MATCHA",
-        "name": "Cimory Susu UHT Matcha 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/MIXED BERRY",
-        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
+        "id": "240ML - CYD/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
         "normal": 9700.0,
         "promo": ""
       },
       {
-        "id": "240ML - CYD/MIX FRUIT",
-        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
         "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/STRAWBERRY",
-        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "125ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
-        "normal": 4100.0,
         "promo": ""
       },
       {
@@ -2600,8 +2572,74 @@
         "promo": ""
       },
       {
+        "id": "240ML - CYD/MIXED BERRY",
+        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/BERRY BLEND",
+        "name": "Cimory Yogurt Bites Berry Blend 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "125ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
+        "normal": 4100.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/GRAPE",
+        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
+      },
+      {
         "id": "40GR - STICKPACK/ORIGINAL",
         "name": "Cimory Yogurt Stik Rasa Original 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/MIX FRUIT",
+        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
+        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
+        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/STRAWBERRY",
+        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
         "normal": 3200.0,
         "promo": ""
       },
@@ -2618,28 +2656,10 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
-        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
-        "normal": 8800.0,
-        "promo": 8200.0
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
-        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
-        "normal": 8600.0,
-        "promo": 8000.0
-      },
-      {
-        "id": "120GR - SQ BITES/BERRY BLEND",
-        "name": "Cimory Yogurt Bites Berry Blend 120 g",
-        "normal": 8600.0,
-        "promo": 8000.0
-      },
-      {
-        "id": "40GR - STICKPACK/GRAPE",
-        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/HAZELNUT",
@@ -2654,20 +2674,8 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CASHEW",
-        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
@@ -2678,20 +2686,8 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 8700.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD ZERO/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
-        "normal": 8700.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD ZERO/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "id": "250ML - MILK/CASHEW",
+        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
@@ -2702,16 +2698,16 @@
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO/CHOCOLATE",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
-        "normal": 7500.0,
+        "id": "240ML - CYD ZERO/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 7900.0,
-        "promo": 7300.0
+        "id": "240ML - CYD ZERO/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
+        "normal": 8700.0,
+        "promo": ""
       },
       {
         "id": "80GR - EAT MILK/MACHA",
@@ -2726,8 +2722,20 @@
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO/MARIE REGAL",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Marie Biscuit 225 ml",
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 8700.0,
+        "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "225ML - MILK ZERO/CHOCOLATE",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
         "normal": 7500.0,
         "promo": ""
       },
@@ -2741,13 +2749,19 @@
         "id": "80GR - EAT MILK/HAZELNUT",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
         "normal": 7900.0,
-        "promo": 7300.0
+        "promo": 6900.0
+      },
+      {
+        "id": "225ML - MILK ZERO/MARIE REGAL",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Marie Biscuit 225 ml",
+        "normal": 7500.0,
+        "promo": ""
       },
       {
         "id": "80GR - EAT MILK/MARIE BISCUIT",
         "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
         "normal": 7900.0,
-        "promo": 7300.0
+        "promo": 6900.0
       },
       {
         "id": "750ML - MILK/CHOCOLATE",
@@ -2762,34 +2776,28 @@
         "promo": ""
       },
       {
+        "id": "120GR - SQ BITES/YUZU",
+        "name": "Cimory Yogurt Bites Yuzu 120 g",
+        "normal": 8800.0,
+        "promo": 4900.0
+      },
+      {
         "id": "250ML - MILK/STRAWBERRY",
         "name": "Cimory Susu UHT Stroberi 250 ml",
         "normal": 8100.0,
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/YUZU",
-        "name": "Cimory Yogurt Bites Yuzu 120 g",
-        "normal": 8800.0,
-        "promo": 5200.0
+        "id": "65ML - B4/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
+        "normal": 8500.0,
+        "promo": 4000.0
       },
       {
         "id": "65ML - B4/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
         "normal": 8500.0,
-        "promo": 4500.0
-      },
-      {
-        "id": "65ML - B4/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
-        "normal": 8500.0,
-        "promo": 4500.0
-      },
-      {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
-        "normal": 8900.0,
-        "promo": ""
+        "promo": 4000.0
       },
       {
         "id": "48GR - SINGLES BAKSO/ORIGINAL",
@@ -2804,9 +2812,21 @@
         "promo": ""
       },
       {
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
+        "normal": 8900.0,
+        "promo": ""
+      },
+      {
         "id": "55GR - SINGLES BAKSO/GOCHUJANG",
         "name": "Kanzler Singles Bakso Gochujang 55 g",
         "normal": 8900.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9100.0,
         "promo": ""
       },
       {
@@ -2822,12 +2842,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9300.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
         "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9100.0,
@@ -2840,9 +2854,9 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9100.0,
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "normal": 9300.0,
         "promo": ""
       },
       {
@@ -2889,6 +2903,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -2928,12 +2944,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
         "id": "240ML - CYD/PLAIN",
         "name": "Cimory Minuman Yogurt Original 240 ml",
         "normal": 9700.0,
@@ -2955,6 +2965,12 @@
         "id": "240ML - CYD/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Stroberi 240 ml",
         "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 10400.0,
         "promo": ""
       },
       {
@@ -3000,24 +3016,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/THAI TEA",
-        "name": "Cimory Susu UHT Thai Tea 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/STRAWBERRY",
-        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ BITES/STRAWBERRY MANGO",
         "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
         "normal": 8600.0,
@@ -3054,6 +3052,24 @@
         "promo": ""
       },
       {
+        "id": "40GR - STICKPACK/STRAWBERRY",
+        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/THAI TEA",
+        "name": "Cimory Susu UHT Thai Tea 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
         "id": "250ML - MILK/HAZELNUT",
         "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
         "normal": 8500.0,
@@ -3072,12 +3088,6 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/CHOCO MALT",
         "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
         "normal": 8500.0,
@@ -3086,6 +3096,12 @@
       {
         "id": "250ML - MILK/CASHEW",
         "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
@@ -3100,18 +3116,6 @@
         "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
         "normal": 7500.0,
         "promo": 6900.0
-      },
-      {
-        "id": "240ML - CYD ZERO/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
-        "normal": 8700.0,
-        "promo": ""
-      },
-      {
-        "id": "225ML - MILK ZERO/CHOCOLATE",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
-        "normal": 7500.0,
-        "promo": ""
       },
       {
         "id": "225ML - MILK ZERO SUGAR/ALMOND",
@@ -3134,6 +3138,18 @@
       {
         "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
         "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 8700.0,
+        "promo": ""
+      },
+      {
+        "id": "225ML - MILK ZERO/CHOCOLATE",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
         "normal": 8700.0,
         "promo": ""
       },
@@ -3204,14 +3220,14 @@
         "promo": ""
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
+        "id": "48GR - SINGLES BAKSO/ORIGINAL",
+        "name": "Kanzler Bakso Original 48 g",
         "normal": 8900.0,
         "promo": ""
       },
       {
-        "id": "48GR - SINGLES BAKSO/ORIGINAL",
-        "name": "Kanzler Bakso Original 48 g",
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -3240,12 +3256,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9300.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/KEJU",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9100.0,
@@ -3255,6 +3265,12 @@
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "normal": 9300.0,
         "promo": ""
       },
       {
@@ -3301,6 +3317,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -3328,16 +3346,16 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8800.0,
-        "promo": 7900.0
+        "id": "120GR - SQ/ORIGINAL",
+        "name": "Cimory Yogurt Squeeze Original 120 g",
+        "normal": 10400.0,
+        "promo": ""
       },
       {
-        "id": "250ML - MILK/MATCHA",
-        "name": "Cimory Susu UHT Matcha 250 ml",
-        "normal": 8500.0,
-        "promo": ""
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
       },
       {
         "id": "120GR - SQ BITES/STRAWBERRY",
@@ -3358,16 +3376,16 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/ORIGINAL",
-        "name": "Cimory Yogurt Squeeze Original 120 g",
-        "normal": 10400.0,
-        "promo": ""
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
       },
       {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
+        "id": "250ML - MILK/MATCHA",
+        "name": "Cimory Susu UHT Matcha 250 ml",
+        "normal": 8500.0,
+        "promo": ""
       },
       {
         "id": "120GR - SQ/MANGO STICKY RICE",
@@ -3418,6 +3436,30 @@
         "promo": ""
       },
       {
+        "id": "40GR - STICKPACK/ORIGINAL",
+        "name": "Cimory Yogurt Stik Rasa Original 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/MIXED BERRY",
+        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/MIX FRUIT",
+        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
         "id": "120GR - SQ BITES/BERRY BLEND",
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8600.0,
@@ -3442,30 +3484,6 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD/MIX FRUIT",
-        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/ORIGINAL",
-        "name": "Cimory Yogurt Stik Rasa Original 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/MIXED BERRY",
-        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
         "id": "40GR - STICKPACK/MANGO STICKY RICE",
         "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
         "normal": 3200.0,
@@ -3474,6 +3492,18 @@
       {
         "id": "250ML - MILK/CASHEW",
         "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
@@ -3490,18 +3520,6 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
         "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
         "normal": 8700.0,
@@ -3512,24 +3530,6 @@
         "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
         "normal": 7500.0,
         "promo": 6900.0
-      },
-      {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 7900.0,
-        "promo": 6900.0
-      },
-      {
-        "id": "225ML - MILK ZERO/CHOCOLATE",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD ZERO/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
-        "normal": 8500.0,
-        "promo": ""
       },
       {
         "id": "225ML - MILK ZERO SUGAR/ALMOND",
@@ -3546,6 +3546,24 @@
       {
         "id": "225ML - MILK ZERO/MATCHA",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "225ML - MILK ZERO/CHOCOLATE",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
         "normal": 7500.0,
         "promo": ""
       },
@@ -3598,14 +3616,14 @@
         "promo": 15300.0
       },
       {
-        "id": "65ML - B4/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
+        "id": "65ML - B4/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
         "normal": 8500.0,
         "promo": 4000.0
       },
       {
-        "id": "65ML - B4/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
+        "id": "65ML - B4/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
         "normal": 8500.0,
         "promo": 4000.0
       },
@@ -3652,12 +3670,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9300.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/HOT",
         "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9100.0,
@@ -3667,6 +3679,12 @@
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
         "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "normal": 9300.0,
         "promo": ""
       },
       {
@@ -3713,6 +3731,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -4125,6 +4145,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -4537,6 +4559,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -4949,6 +4973,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -5361,6 +5387,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -5773,6 +5801,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -6185,6 +6215,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -6597,6 +6629,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -7009,6 +7043,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -7421,6 +7457,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -7833,6 +7871,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -7992,12 +8032,6 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ/BROWN SUGAR",
         "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
         "normal": 10400.0,
@@ -8010,27 +8044,21 @@
         "promo": ""
       },
       {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
         "id": "750ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
         "normal": 17700.0,
         "promo": 15300.0
       },
       {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "40GR - STICKPACK/BROWN SUGAR",
         "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
         "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
-        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -8048,6 +8076,18 @@
       {
         "id": "250ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
@@ -8245,14 +8285,10 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
-      {
-        "id": "240ML - CYD/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
       {
         "id": "120GR - SQ/ORIGINAL",
         "name": "Cimory Yogurt Squeeze Original 120 g",
@@ -8266,21 +8302,21 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/MATCHA",
         "name": "Cimory Susu UHT Matcha 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
       {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10400.0,
+        "id": "240ML - CYD/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/PLAIN",
+        "name": "Cimory Minuman Yogurt Original 240 ml",
+        "normal": 9700.0,
         "promo": ""
       },
       {
@@ -8290,28 +8326,10 @@
         "promo": 2900.0
       },
       {
-        "id": "240ML - CYD/PLAIN",
-        "name": "Cimory Minuman Yogurt Original 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ BITES/STRAWBERRY",
         "name": "Cimory Yogurt Bites Stroberi 120 g",
         "normal": 8800.0,
-        "promo": 8200.0
-      },
-      {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8800.0,
-        "promo": 8200.0
-      },
-      {
-        "id": "120GR - SQ BITES/YUZU",
-        "name": "Cimory Yogurt Bites Yuzu 120 g",
-        "normal": 8800.0,
-        "promo": 5200.0
+        "promo": 7900.0
       },
       {
         "id": "120GR - SQ/STRAWBERRY",
@@ -8320,26 +8338,32 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10400.0,
+        "id": "120GR - SQ BITES/YUZU",
+        "name": "Cimory Yogurt Bites Yuzu 120 g",
+        "normal": 8800.0,
+        "promo": 4900.0
+      },
+      {
+        "id": "240ML - CYD/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
+        "normal": 9700.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MILK TEA",
-        "name": "Cimory Susu UHT Milk Tea 250 ml",
-        "normal": 8300.0,
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10400.0,
         "promo": ""
       },
       {
         "id": "40GR - STICKPACK/STRAWBERRY",
         "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/ORIGINAL",
-        "name": "Cimory Yogurt Stik Rasa Original 40 g",
         "normal": 3200.0,
         "promo": ""
       },
@@ -8350,9 +8374,27 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10400.0,
+        "id": "40GR - STICKPACK/GRAPE",
+        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
+      },
+      {
+        "id": "250ML - MILK/THAI TEA",
+        "name": "Cimory Susu UHT Thai Tea 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/ORIGINAL",
+        "name": "Cimory Yogurt Stik Rasa Original 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "125ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
+        "normal": 4100.0,
         "promo": ""
       },
       {
@@ -8362,10 +8404,34 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/THAI TEA",
-        "name": "Cimory Susu UHT Thai Tea 250 ml",
+        "id": "250ML - MILK/MILK TEA",
+        "name": "Cimory Susu UHT Milk Tea 250 ml",
         "normal": 8300.0,
         "promo": ""
+      },
+      {
+        "id": "750ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
+        "normal": 17500.0,
+        "promo": 15300.0
+      },
+      {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
+        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
       },
       {
         "id": "40GR - STICKPACK/BLUEBERRY",
@@ -8380,51 +8446,21 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD/MIX FRUIT",
-        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "125ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
-        "normal": 4100.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/GRAPE",
-        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
-      {
-        "id": "750ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
-        "normal": 17500.0,
-        "promo": 15500.0
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
-        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
-        "normal": 8600.0,
-        "promo": 8000.0
-      },
-      {
         "id": "120GR - SQ BITES/BERRY BLEND",
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8600.0,
-        "promo": 8000.0
+        "promo": 7900.0
       },
       {
         "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
         "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
         "normal": 8800.0,
-        "promo": 8200.0
+        "promo": 7900.0
       },
       {
-        "id": "40GR - STICKPACK/BROWN SUGAR",
-        "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
-        "normal": 3200.0,
+        "id": "240ML - CYD/MIX FRUIT",
+        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
+        "normal": 9700.0,
         "promo": ""
       },
       {
@@ -8434,15 +8470,27 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
+        "id": "250ML - MILK/CASHEW",
+        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "750ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
+        "normal": 17700.0,
+        "promo": 15300.0
+      },
+      {
+        "id": "40GR - STICKPACK/BROWN SUGAR",
+        "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
         "normal": 3200.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CASHEW",
-        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
-        "normal": 8500.0,
+        "id": "40GR - STICKPACK/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -8458,15 +8506,27 @@
         "promo": ""
       },
       {
-        "id": "750ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
-        "normal": 17700.0,
-        "promo": 15700.0
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "id": "240ML - CYD ZERO/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
         "normal": 8700.0,
+        "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "240ML - CYD ZERO/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -8476,9 +8536,9 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
-        "normal": 8500.0,
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 8700.0,
         "promo": ""
       },
       {
@@ -8494,28 +8554,16 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
-        "promo": 6900.0
-      },
-      {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 7900.0,
-        "promo": 7300.0
-      },
-      {
-        "id": "240ML - CYD ZERO/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
-        "normal": 8700.0,
-        "promo": ""
-      },
-      {
         "id": "240ML - CYD ZERO/TROPICAL FRUIT",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
         "normal": 8500.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MARIE BISCUIT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
       },
       {
         "id": "225ML - MILK ZERO/MARIE REGAL",
@@ -8527,13 +8575,7 @@
         "id": "80GR - EAT MILK/HAZELNUT",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
         "normal": 7900.0,
-        "promo": 7300.0
-      },
-      {
-        "id": "80GR - EAT MILK/MARIE BISCUIT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
-        "normal": 7900.0,
-        "promo": 7300.0
+        "promo": 6900.0
       },
       {
         "id": "65ML - B4/BLUEBERRY",
@@ -8551,13 +8593,7 @@
         "id": "65ML - B4/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
         "normal": 8500.0,
-        "promo": 4500.0
-      },
-      {
-        "id": "48GR - SINGLES BAKSO/ORIGINAL",
-        "name": "Kanzler Bakso Original 48 g",
-        "normal": 8900.0,
-        "promo": ""
+        "promo": 4000.0
       },
       {
         "id": "48GR - SINGLES BAKSO/KEJU",
@@ -8572,9 +8608,33 @@
         "promo": ""
       },
       {
+        "id": "48GR - SINGLES BAKSO/ORIGINAL",
+        "name": "Kanzler Bakso Original 48 g",
+        "normal": 8900.0,
+        "promo": ""
+      },
+      {
         "id": "55GR - SINGLES BAKSO/GOCHUJANG",
         "name": "Kanzler Singles Bakso Gochujang 55 g",
         "normal": 8900.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9100.0,
         "promo": ""
       },
       {
@@ -8590,27 +8650,9 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9300.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
-        "normal": 9100.0,
         "promo": ""
       },
       {
@@ -8657,18 +8699,14 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
         "id": "120GR - SQ/BLUEBERRY",
         "name": "Cimory Yogurt Squeeze Bluberi 120 g",
         "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 8300.0,
         "promo": ""
       },
       {
@@ -8724,6 +8762,12 @@
         "name": "Cimory Yogurt Stik Jeruk 40 g",
         "normal": 3000.0,
         "promo": 2900.0
+      },
+      {
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 8300.0,
+        "promo": ""
       },
       {
         "id": "40GR - STICKPACK/GRAPE",
@@ -8828,12 +8872,6 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/HAZELNUT",
         "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
         "normal": 8500.0,
@@ -8848,6 +8886,12 @@
       {
         "id": "40GR - STICKPACK/BROWN SUGAR",
         "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
         "normal": 3200.0,
         "promo": ""
       },
@@ -9069,6 +9113,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -9481,6 +9527,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -9490,26 +9538,20 @@
         "promo": ""
       },
       {
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
+      },
+      {
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
         "id": "240ML - CYD/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Bluberi 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/PLAIN",
-        "name": "Cimory Minuman Yogurt Original 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
         "normal": 9700.0,
         "promo": ""
       },
@@ -9520,9 +9562,21 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/PLAIN",
+        "name": "Cimory Minuman Yogurt Original 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
+        "normal": 9700.0,
         "promo": ""
       },
       {
@@ -9532,27 +9586,27 @@
         "promo": ""
       },
       {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
         "id": "120GR - SQ BITES/STRAWBERRY",
         "name": "Cimory Yogurt Bites Stroberi 120 g",
         "normal": 8800.0,
-        "promo": 8200.0
+        "promo": 7900.0
       },
       {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8800.0,
-        "promo": 8200.0
+        "id": "240ML - CYD/MIX FRUIT",
+        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
+        "normal": 9700.0,
+        "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
-      {
-        "id": "250ML - MILK/TIRAMISU",
-        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
-        "normal": 8300.0,
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10400.0,
         "promo": ""
       },
       {
@@ -9562,28 +9616,28 @@
         "promo": ""
       },
       {
+        "id": "750ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
+        "normal": 17500.0,
+        "promo": 15300.0
+      },
+      {
         "id": "250ML - MILK/MARIE REGAL",
         "name": "Cimory Susu UHT Biskuit Marie 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
       {
-        "id": "125ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
-        "normal": 4100.0,
-        "promo": ""
+        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
+        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
       },
       {
-        "id": "250ML - MILK/MILK TEA",
-        "name": "Cimory Susu UHT Milk Tea 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/MIX FRUIT",
-        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
-        "normal": 9700.0,
-        "promo": ""
+        "id": "40GR - STICKPACK/GRAPE",
+        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
       },
       {
         "id": "240ML - CYD/MIXED BERRY",
@@ -9604,15 +9658,9 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
+        "id": "125ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
+        "normal": 4100.0,
         "promo": ""
       },
       {
@@ -9622,62 +9670,38 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
-        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
-        "normal": 8800.0,
-        "promo": 8200.0
+        "id": "250ML - MILK/TIRAMISU",
+        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MILK TEA",
+        "name": "Cimory Susu UHT Milk Tea 250 ml",
+        "normal": 8300.0,
+        "promo": ""
       },
       {
         "id": "120GR - SQ BITES/STRAWBERRY MANGO",
         "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
         "normal": 8600.0,
-        "promo": 8000.0
+        "promo": 7900.0
       },
       {
         "id": "120GR - SQ BITES/BERRY BLEND",
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8600.0,
-        "promo": 8000.0
+        "promo": 7900.0
       },
       {
-        "id": "750ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
-        "normal": 17500.0,
-        "promo": 15500.0
-      },
-      {
-        "id": "40GR - STICKPACK/GRAPE",
-        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
-      {
-        "id": "40GR - STICKPACK/BROWN SUGAR",
-        "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
         "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
-        "normal": 8500.0,
         "promo": ""
       },
       {
         "id": "250ML - MILK/CASHEW",
         "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
@@ -9691,24 +9715,30 @@
         "id": "750ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
         "normal": 17700.0,
-        "promo": 15700.0
+        "promo": 15300.0
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
-        "normal": 8700.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD ZERO/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "id": "250ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 8700.0,
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/BROWN SUGAR",
+        "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -9718,9 +9748,39 @@
         "promo": ""
       },
       {
+        "id": "240ML - CYD ZERO/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
+        "normal": 8700.0,
+        "promo": ""
+      },
+      {
         "id": "225ML - MILK ZERO SUGAR/ALMOND",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 8700.0,
+        "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "240ML - CYD ZERO/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -9730,22 +9790,16 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 7900.0,
-        "promo": 7300.0
-      },
-      {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
-        "promo": 6900.0
-      },
-      {
         "id": "240ML - CYD ZERO/TROPICAL FRUIT",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
         "normal": 8500.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MARIE BISCUIT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
       },
       {
         "id": "225ML - MILK ZERO/MARIE REGAL",
@@ -9757,13 +9811,13 @@
         "id": "80GR - EAT MILK/HAZELNUT",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
         "normal": 7900.0,
-        "promo": 7300.0
+        "promo": 6900.0
       },
       {
-        "id": "80GR - EAT MILK/MARIE BISCUIT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
-        "normal": 7900.0,
-        "promo": 7300.0
+        "id": "120GR - SQ BITES/YUZU",
+        "name": "Cimory Yogurt Bites Yuzu 120 g",
+        "normal": 8800.0,
+        "promo": 4900.0
       },
       {
         "id": "250ML - MILK/STRAWBERRY",
@@ -9772,26 +9826,20 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/YUZU",
-        "name": "Cimory Yogurt Bites Yuzu 120 g",
-        "normal": 8800.0,
-        "promo": 5200.0
-      },
-      {
         "id": "65ML - B4/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
         "normal": 8500.0,
-        "promo": 4500.0
+        "promo": 4000.0
       },
       {
         "id": "65ML - B4/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
         "normal": 8500.0,
-        "promo": 4500.0
+        "promo": 4000.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/ORIGINAL",
-        "name": "Kanzler Bakso Original 48 g",
+        "id": "48GR - SINGLES BAKSO/KEJU",
+        "name": "Kanzler Bakso Keju 48 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -9802,8 +9850,8 @@
         "promo": ""
       },
       {
-        "id": "48GR - SINGLES BAKSO/KEJU",
-        "name": "Kanzler Bakso Keju 48 g",
+        "id": "48GR - SINGLES BAKSO/ORIGINAL",
+        "name": "Kanzler Bakso Original 48 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -9811,24 +9859,6 @@
         "id": "55GR - SINGLES BAKSO/GOCHUJANG",
         "name": "Kanzler Singles Bakso Gochujang 55 g",
         "normal": 8900.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9300.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
-        "normal": 9100.0,
         "promo": ""
       },
       {
@@ -9844,9 +9874,27 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/HOT",
         "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "normal": 9300.0,
         "promo": ""
       },
       {
@@ -9893,6 +9941,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -10232,18 +10282,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/KEJU",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/KEJU 2X",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/GOCHUJANG",
         "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9100.0,
@@ -10258,6 +10296,18 @@
       {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
         "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/KEJU",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/KEJU 2X",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9100.0,
         "promo": ""
       },
@@ -10305,6 +10355,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -10717,6 +10769,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -11129,6 +11183,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -11541,14 +11597,10 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
-      {
-        "id": "240ML - CYD/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
       {
         "id": "240ML - CYD/PLAIN",
         "name": "Cimory Minuman Yogurt Original 240 ml",
@@ -11566,6 +11618,36 @@
         "name": "Cimory Susu UHT Matcha 250 ml",
         "normal": 8500.0,
         "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY",
+        "name": "Cimory Yogurt Bites Stroberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
       },
       {
         "id": "250ML - MILK/CHOCOLATE",
@@ -11586,34 +11668,28 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10400.0,
+        "id": "250ML - MILK/TIRAMISU",
+        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "normal": 8300.0,
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY",
-        "name": "Cimory Yogurt Bites Stroberi 120 g",
-        "normal": 8800.0,
-        "promo": 8200.0
-      },
-      {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8800.0,
-        "promo": 8200.0
-      },
-      {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
+        "id": "125ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
+        "normal": 4100.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/THAI TEA",
         "name": "Cimory Susu UHT Thai Tea 250 ml",
         "normal": 8300.0,
         "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/GRAPE",
+        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
       },
       {
         "id": "120GR - SQ/BROWN SUGAR",
@@ -11634,10 +11710,10 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/TIRAMISU",
-        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
-        "normal": 8300.0,
-        "promo": ""
+        "id": "750ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
+        "normal": 17500.0,
+        "promo": 15300.0
       },
       {
         "id": "40GR - STICKPACK/BLUEBERRY",
@@ -11652,10 +11728,22 @@
         "promo": ""
       },
       {
+        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
+        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
+      },
+      {
         "id": "240ML - CYD/MIXED BERRY",
         "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
         "normal": 9700.0,
         "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/BERRY BLEND",
+        "name": "Cimory Yogurt Bites Berry Blend 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
       },
       {
         "id": "40GR - STICKPACK/ORIGINAL",
@@ -11676,52 +11764,10 @@
         "promo": ""
       },
       {
-        "id": "125ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
-        "normal": 4100.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
         "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
         "normal": 8800.0,
-        "promo": 8200.0
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
-        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
-        "normal": 8600.0,
-        "promo": 8000.0
-      },
-      {
-        "id": "120GR - SQ BITES/BERRY BLEND",
-        "name": "Cimory Yogurt Bites Berry Blend 120 g",
-        "normal": 8600.0,
-        "promo": 8000.0
-      },
-      {
-        "id": "750ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
-        "normal": 17500.0,
-        "promo": 15500.0
-      },
-      {
-        "id": "40GR - STICKPACK/GRAPE",
-        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
-      {
-        "id": "40GR - STICKPACK/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
+        "promo": 7900.0
       },
       {
         "id": "250ML - MILK/CASHEW",
@@ -11736,22 +11782,34 @@
         "promo": ""
       },
       {
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
         "id": "250ML - MILK/HAZELNUT",
         "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
-        "normal": 8500.0,
+        "id": "40GR - STICKPACK/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
         "id": "750ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
         "normal": 17700.0,
-        "promo": 15700.0
+        "promo": 15300.0
+      },
+      {
+        "id": "250ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
       },
       {
         "id": "225ML - MILK ZERO/CHOCOLATE",
@@ -11772,6 +11830,18 @@
         "promo": ""
       },
       {
+        "id": "225ML - MILK ZERO/MATCHA",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": 6900.0
+      },
+      {
         "id": "225ML - MILK ZERO SUGAR/ALMOND",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
@@ -11784,21 +11854,21 @@
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO/MATCHA",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
         "id": "80GR - EAT MILK/CHOCOLATE",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
         "normal": 7900.0,
-        "promo": 7300.0
+        "promo": 6900.0
       },
       {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
+        "id": "80GR - EAT MILK/HAZELNUT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "80GR - EAT MILK/MARIE BISCUIT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
+        "normal": 7900.0,
         "promo": 6900.0
       },
       {
@@ -11814,16 +11884,10 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/HAZELNUT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
-        "normal": 7900.0,
-        "promo": 7300.0
-      },
-      {
-        "id": "80GR - EAT MILK/MARIE BISCUIT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
-        "normal": 7900.0,
-        "promo": 7300.0
+        "id": "120GR - SQ BITES/YUZU",
+        "name": "Cimory Yogurt Bites Yuzu 120 g",
+        "normal": 8800.0,
+        "promo": 4900.0
       },
       {
         "id": "250ML - MILK/STRAWBERRY",
@@ -11832,32 +11896,20 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/YUZU",
-        "name": "Cimory Yogurt Bites Yuzu 120 g",
-        "normal": 8800.0,
-        "promo": 5200.0
-      },
-      {
         "id": "65ML - B4/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
         "normal": 8500.0,
-        "promo": 4500.0
+        "promo": 4000.0
       },
       {
         "id": "65ML - B4/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
         "normal": 8500.0,
-        "promo": 4500.0
+        "promo": 4000.0
       },
       {
         "id": "48GR - SINGLES BAKSO/ORIGINAL",
         "name": "Kanzler Bakso Original 48 g",
-        "normal": 8900.0,
-        "promo": ""
-      },
-      {
-        "id": "48GR - SINGLES BAKSO/KEJU",
-        "name": "Kanzler Bakso Keju 48 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -11868,15 +11920,21 @@
         "promo": ""
       },
       {
-        "id": "450GR - NUGGET/CRISPY NUGGET",
-        "name": "Kanzler Naget Ayam Krispi 450 g",
-        "normal": 58900.0,
+        "id": "48GR - SINGLES BAKSO/KEJU",
+        "name": "Kanzler Bakso Keju 48 g",
+        "normal": 8900.0,
         "promo": ""
       },
       {
         "id": "450GR - NUGGET/CHICKEN NUGGET",
         "name": "Kanzler Naget Ayam Original 450 g",
         "normal": 57900.0,
+        "promo": ""
+      },
+      {
+        "id": "450GR - NUGGET/CRISPY NUGGET",
+        "name": "Kanzler Naget Ayam Krispi 450 g",
+        "normal": 58900.0,
         "promo": ""
       },
       {
@@ -11922,12 +11980,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9300.0,
@@ -11936,6 +11988,12 @@
       {
         "id": "60GR - SINGLES SOSIS/HOT",
         "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9100.0,
         "promo": ""
       },
@@ -11953,6 +12011,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -12286,20 +12346,26 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9300.0,
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/HOT",
         "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9100.0,
         "promo": ""
       },
@@ -12312,12 +12378,6 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9100.0,
         "promo": ""
       },
@@ -12365,6 +12425,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -12777,6 +12839,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -13189,6 +13253,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -13219,12 +13285,6 @@
         "id": "250ML - MILK/STRAWBERRY",
         "name": "Cimory Susu UHT Stroberi 250 ml",
         "normal": 8100.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10400.0,
         "promo": ""
       },
       {
@@ -13268,6 +13328,12 @@
         "name": "Cimory Yogurt Bites Stroberi 120 g",
         "normal": 8800.0,
         "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10400.0,
+        "promo": ""
       },
       {
         "id": "120GR - SQ/BROWN SUGAR",
@@ -13324,30 +13390,6 @@
         "promo": 7900.0
       },
       {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/THAI TEA",
-        "name": "Cimory Susu UHT Thai Tea 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/STRAWBERRY",
-        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/TIRAMISU",
-        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
         "id": "125ML - MILK/CHOCOLATE",
         "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
         "normal": 4100.0,
@@ -13370,6 +13412,30 @@
         "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
         "normal": 17500.0,
         "promo": 15300.0
+      },
+      {
+        "id": "40GR - STICKPACK/STRAWBERRY",
+        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/TIRAMISU",
+        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/THAI TEA",
+        "name": "Cimory Susu UHT Thai Tea 250 ml",
+        "normal": 8300.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/CASHEW",
@@ -13444,12 +13510,6 @@
         "promo": 6900.0
       },
       {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
-        "promo": 6900.0
-      },
-      {
         "id": "225ML - MILK ZERO SUGAR/ALMOND",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
@@ -13460,6 +13520,12 @@
         "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
         "normal": 8700.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": 6900.0
       },
       {
         "id": "225ML - MILK ZERO/MARIE REGAL",
@@ -13528,24 +13594,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/KEJU",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/KEJU 2X",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/HOT",
         "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9100.0,
@@ -13555,6 +13603,24 @@
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9300.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/KEJU",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/KEJU 2X",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 9100.0,
         "promo": ""
       },
       {
@@ -13601,6 +13667,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -13628,12 +13696,6 @@
         "promo": 2900.0
       },
       {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ/ORIGINAL",
         "name": "Cimory Yogurt Squeeze Original 120 g",
         "normal": 10400.0,
@@ -13658,15 +13720,21 @@
         "promo": 7900.0
       },
       {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
         "normal": 10400.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 8300.0,
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 10400.0,
         "promo": ""
       },
       {
@@ -13754,12 +13822,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
-        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
-        "normal": 8600.0,
-        "promo": 7900.0
-      },
-      {
         "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
         "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
         "normal": 8800.0,
@@ -13770,6 +13832,12 @@
         "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
         "normal": 8300.0,
         "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
+        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
       },
       {
         "id": "250ML - MILK/CASHEW",
@@ -14013,6 +14081,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -14425,6 +14495,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -14837,6 +14909,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -15249,6 +15323,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -15661,6 +15737,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -16073,6 +16151,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -16485,6 +16565,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -16897,6 +16979,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -17309,6 +17393,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -17516,12 +17602,6 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 7900.0,
-        "promo": 6900.0
-      },
-      {
         "id": "240ML - CYD ZERO/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
         "normal": 8500.0,
@@ -17540,12 +17620,6 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
-        "promo": 6900.0
-      },
-      {
         "id": "225ML - MILK ZERO/MATCHA",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
         "normal": 7500.0,
@@ -17556,6 +17630,18 @@
         "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
         "normal": 8900.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
       },
       {
         "id": "240ML - CYD ZERO/TROPICAL FRUIT",
@@ -17721,6 +17807,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -18133,6 +18221,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -18545,6 +18635,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -18644,12 +18736,6 @@
         "promo": ""
       },
       {
-        "id": "125ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
-        "normal": 4100.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/MILK TEA",
         "name": "Cimory Susu UHT Milk Tea 250 ml",
         "normal": 8300.0,
@@ -18707,6 +18793,12 @@
         "id": "250ML - MILK/TIRAMISU",
         "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
         "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "125ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
+        "normal": 4100.0,
         "promo": ""
       },
       {
@@ -18957,6 +19049,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -19369,48 +19463,20 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
-        "id": "120GR - SQ/ORIGINAL",
-        "name": "Cimory Yogurt Squeeze Original 120 g",
-        "normal": 10400.0,
-        "promo": ""
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
       },
       {
         "id": "240ML - CYD/PLAIN",
         "name": "Cimory Minuman Yogurt Original 240 ml",
         "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/MATCHA",
-        "name": "Cimory Susu UHT Matcha 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
-        "normal": 10400.0,
         "promo": ""
       },
       {
@@ -19420,33 +19486,75 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
+        "id": "240ML - CYD/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
+        "normal": 9700.0,
+        "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY",
-        "name": "Cimory Yogurt Bites Stroberi 120 g",
-        "normal": 8800.0,
-        "promo": 8200.0
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/ORIGINAL",
+        "name": "Cimory Yogurt Squeeze Original 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MATCHA",
+        "name": "Cimory Susu UHT Matcha 250 ml",
+        "normal": 8500.0,
+        "promo": ""
       },
       {
         "id": "120GR - SQ BITES/BLUEBERRY",
         "name": "Cimory Yogurt Bites Bluberi 120 g",
         "normal": 8800.0,
-        "promo": 8200.0
+        "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY",
+        "name": "Cimory Yogurt Bites Stroberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "40GR - STICKPACK/GRAPE",
+        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
+        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ BITES/BERRY BLEND",
+        "name": "Cimory Yogurt Bites Berry Blend 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
       },
       {
         "id": "250ML - MILK/MILK TEA",
         "name": "Cimory Susu UHT Milk Tea 250 ml",
         "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/ORIGINAL",
-        "name": "Cimory Yogurt Stik Rasa Original 40 g",
-        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -19456,9 +19564,33 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 8500.0,
+        "id": "240ML - CYD/MIXED BERRY",
+        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/MIX FRUIT",
+        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "750ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
+        "normal": 17500.0,
+        "promo": 15300.0
+      },
+      {
+        "id": "125ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
+        "normal": 4100.0,
         "promo": ""
       },
       {
@@ -19468,9 +19600,21 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD/MIX FRUIT",
-        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
-        "normal": 9700.0,
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/TIRAMISU",
+        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/ORIGINAL",
+        "name": "Cimory Yogurt Stik Rasa Original 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -19486,80 +19630,20 @@
         "promo": ""
       },
       {
-        "id": "125ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
-        "normal": 4100.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/MIXED BERRY",
-        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/TIRAMISU",
-        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/GRAPE",
-        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
-        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
-        "normal": 8600.0,
-        "promo": 8000.0
-      },
-      {
-        "id": "120GR - SQ BITES/BERRY BLEND",
-        "name": "Cimory Yogurt Bites Berry Blend 120 g",
-        "normal": 8600.0,
-        "promo": 8000.0
-      },
-      {
-        "id": "750ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
-        "normal": 17500.0,
-        "promo": 15500.0
-      },
-      {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
         "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
         "normal": 8800.0,
-        "promo": 8200.0
+        "promo": 7900.0
       },
       {
-        "id": "250ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
         "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BROWN SUGAR",
-        "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
-        "normal": 3200.0,
         "promo": ""
       },
       {
         "id": "250ML - MILK/CHOCO MALT",
         "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
@@ -19570,15 +19654,21 @@
         "promo": ""
       },
       {
+        "id": "250ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
         "id": "40GR - STICKPACK/MANGO STICKY RICE",
         "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
         "normal": 3200.0,
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
-        "normal": 8700.0,
+        "id": "40GR - STICKPACK/BROWN SUGAR",
+        "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -19588,15 +19678,15 @@
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO/MATCHA",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
         "normal": 7500.0,
-        "promo": ""
+        "promo": 6900.0
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 8700.0,
+        "id": "225ML - MILK ZERO/CHOCOLATE",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
+        "normal": 7500.0,
         "promo": ""
       },
       {
@@ -19606,22 +19696,28 @@
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO/CHOCOLATE",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
+        "id": "225ML - MILK ZERO/MATCHA",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
         "normal": 7500.0,
         "promo": ""
-      },
-      {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
-        "promo": 6900.0
       },
       {
         "id": "80GR - EAT MILK/CHOCOLATE",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
         "normal": 7900.0,
-        "promo": 7300.0
+        "promo": 6900.0
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 8700.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
+        "normal": 8700.0,
+        "promo": ""
       },
       {
         "id": "225ML - MILK ZERO/MARIE REGAL",
@@ -19630,22 +19726,22 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/TROPICAL FRUIT",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "80GR - EAT MILK/HAZELNUT",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
         "normal": 7900.0,
-        "promo": 7300.0
+        "promo": 6900.0
       },
       {
         "id": "80GR - EAT MILK/MARIE BISCUIT",
         "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
         "normal": 7900.0,
-        "promo": 7300.0
+        "promo": 6900.0
+      },
+      {
+        "id": "240ML - CYD ZERO/TROPICAL FRUIT",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
+        "normal": 8500.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/STRAWBERRY",
@@ -19657,25 +19753,25 @@
         "id": "120GR - SQ BITES/YUZU",
         "name": "Cimory Yogurt Bites Yuzu 120 g",
         "normal": 8800.0,
-        "promo": 5200.0
+        "promo": 4900.0
       },
       {
         "id": "750ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
         "normal": 17700.0,
-        "promo": 15700.0
+        "promo": 15300.0
       },
       {
         "id": "65ML - B4/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
         "normal": 8500.0,
-        "promo": 4500.0
+        "promo": 4000.0
       },
       {
         "id": "65ML - B4/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
         "normal": 8500.0,
-        "promo": 4500.0
+        "promo": 4000.0
       },
       {
         "id": "48GR - SINGLES BAKSO/ORIGINAL",
@@ -19699,6 +19795,12 @@
         "id": "55GR - SINGLES BAKSO/GOCHUJANG",
         "name": "Kanzler Singles Bakso Gochujang 55 g",
         "normal": 8900.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9100.0,
         "promo": ""
       },
       {
@@ -19728,12 +19830,6 @@
       {
         "id": "60GR - SINGLES SOSIS/GOCHUJANG",
         "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9100.0,
         "promo": ""
       },
@@ -19770,7 +19866,7 @@
       {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
-        "normal": 0.0,
+        "normal": 8900.0,
         "promo": ""
       }
     ]
@@ -19781,6 +19877,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -20193,6 +20291,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -20442,15 +20542,15 @@
         "promo": 6900.0
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 8900.0,
-        "promo": ""
-      },
-      {
         "id": "225ML - MILK ZERO/CHOCOLATE",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
         "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 8900.0,
         "promo": ""
       },
       {
@@ -20458,12 +20558,6 @@
         "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
         "normal": 7900.0,
         "promo": 6900.0
-      },
-      {
-        "id": "240ML - CYD ZERO/TROPICAL FRUIT",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
-        "normal": 8500.0,
-        "promo": ""
       },
       {
         "id": "225ML - MILK ZERO/MARIE REGAL",
@@ -20476,6 +20570,12 @@
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
         "normal": 7900.0,
         "promo": 6900.0
+      },
+      {
+        "id": "240ML - CYD ZERO/TROPICAL FRUIT",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
+        "normal": 8500.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/STRAWBERRY",
@@ -20605,6 +20705,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -21017,6 +21119,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -21042,18 +21146,6 @@
         "name": "Cimory Yogurt Stik Jeruk 40 g",
         "normal": 3000.0,
         "promo": 2900.0
-      },
-      {
-        "id": "120GR - SQ/ORIGINAL",
-        "name": "Cimory Yogurt Squeeze Original 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/PLAIN",
-        "name": "Cimory Minuman Yogurt Original 240 ml",
-        "normal": 9700.0,
-        "promo": ""
       },
       {
         "id": "120GR - SQ BITES/BLUEBERRY",
@@ -21082,6 +21174,18 @@
       {
         "id": "240ML - CYD/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Bluberi 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/ORIGINAL",
+        "name": "Cimory Yogurt Squeeze Original 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/PLAIN",
+        "name": "Cimory Minuman Yogurt Original 240 ml",
         "normal": 9700.0,
         "promo": ""
       },
@@ -21140,30 +21244,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/BERRY BLEND",
-        "name": "Cimory Yogurt Bites Berry Blend 120 g",
-        "normal": 8600.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
         "id": "240ML - CYD/MIX FRUIT",
         "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
         "normal": 9700.0,
@@ -21182,6 +21262,30 @@
         "promo": ""
       },
       {
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/BERRY BLEND",
+        "name": "Cimory Yogurt Bites Berry Blend 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
         "id": "40GR - STICKPACK/BROWN SUGAR",
         "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
         "normal": 3200.0,
@@ -21190,12 +21294,6 @@
       {
         "id": "250ML - MILK/CASHEW",
         "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
         "normal": 8300.0,
         "promo": ""
       },
@@ -21218,6 +21316,12 @@
         "promo": ""
       },
       {
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
         "id": "80GR - EAT MILK/CHOCOLATE",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
         "normal": 7900.0,
@@ -21233,18 +21337,6 @@
         "id": "225ML - MILK ZERO/CHOCOLATE",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
         "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
-        "promo": 6900.0
-      },
-      {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 8700.0,
         "promo": ""
       },
       {
@@ -21266,10 +21358,16 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/HAZELNUT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
-        "normal": 7900.0,
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
         "promo": 6900.0
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 8700.0,
+        "promo": ""
       },
       {
         "id": "80GR - EAT MILK/MARIE BISCUIT",
@@ -21288,6 +21386,12 @@
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
         "normal": 8500.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/HAZELNUT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
       },
       {
         "id": "250ML - MILK/STRAWBERRY",
@@ -21326,12 +21430,6 @@
         "promo": 4000.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
-        "normal": 8900.0,
-        "promo": ""
-      },
-      {
         "id": "48GR - SINGLES BAKSO/ORIGINAL",
         "name": "Kanzler Bakso Original 48 g",
         "normal": 8900.0,
@@ -21340,6 +21438,12 @@
       {
         "id": "48GR - SINGLES BAKSO/KEJU",
         "name": "Kanzler Bakso Keju 48 g",
+        "normal": 8900.0,
+        "promo": ""
+      },
+      {
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -21429,6 +21533,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -21841,6 +21947,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -22054,12 +22162,6 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
-        "promo": 6900.0
-      },
-      {
         "id": "80GR - EAT MILK/CHOCOLATE",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
         "normal": 7900.0,
@@ -22094,6 +22196,12 @@
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": 6900.0
       },
       {
         "id": "240ML - CYD ZERO/TROPICAL FRUIT",
@@ -22253,6 +22361,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -22286,24 +22396,6 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MATCHA",
-        "name": "Cimory Susu UHT Matcha 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
-      {
-        "id": "240ML - CYD/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ BITES/STRAWBERRY",
         "name": "Cimory Yogurt Bites Stroberi 120 g",
         "normal": 8800.0,
@@ -22322,6 +22414,24 @@
         "promo": ""
       },
       {
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
+      },
+      {
+        "id": "240ML - CYD/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MATCHA",
+        "name": "Cimory Susu UHT Matcha 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
         "id": "240ML - CYD/MIXED BERRY",
         "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
         "normal": 9700.0,
@@ -22336,30 +22446,6 @@
       {
         "id": "120GR - SQ BITES/BERRY BLEND",
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
-        "normal": 8600.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "40GR - STICKPACK/GRAPE",
-        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
-      {
-        "id": "250ML - MILK/TIRAMISU",
-        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/MILK TEA",
-        "name": "Cimory Susu UHT Milk Tea 250 ml",
-        "normal": 8100.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
-        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
         "normal": 8600.0,
         "promo": 7900.0
       },
@@ -22424,6 +22510,30 @@
         "promo": 7900.0
       },
       {
+        "id": "40GR - STICKPACK/GRAPE",
+        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
+      },
+      {
+        "id": "250ML - MILK/TIRAMISU",
+        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MILK TEA",
+        "name": "Cimory Susu UHT Milk Tea 250 ml",
+        "normal": 8100.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
+        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
+      },
+      {
         "id": "40GR - STICKPACK/MANGO STICKY RICE",
         "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
         "normal": 3400.0,
@@ -22432,12 +22542,6 @@
       {
         "id": "250ML - MILK/CHOCO MALT",
         "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
         "normal": 8300.0,
         "promo": ""
       },
@@ -22466,6 +22570,12 @@
         "promo": 15300.0
       },
       {
+        "id": "250ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
         "id": "240ML - CYD ZERO/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
         "normal": 8500.0,
@@ -22478,14 +22588,14 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 7900.0,
-        "promo": 6900.0
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 8700.0,
+        "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO SUGAR/ALMOND",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
+        "id": "225ML - MILK ZERO/CHOCOLATE",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
         "normal": 7500.0,
         "promo": ""
       },
@@ -22502,14 +22612,14 @@
         "promo": 6900.0
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 8700.0,
-        "promo": ""
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
       },
       {
-        "id": "225ML - MILK ZERO/CHOCOLATE",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
+        "id": "225ML - MILK ZERO SUGAR/ALMOND",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
         "promo": ""
       },
@@ -22526,16 +22636,16 @@
         "promo": 6900.0
       },
       {
-        "id": "80GR - EAT MILK/HAZELNUT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
-        "normal": 7900.0,
-        "promo": 6900.0
-      },
-      {
         "id": "225ML - MILK ZERO/MARIE REGAL",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Marie Biscuit 225 ml",
         "normal": 7500.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/HAZELNUT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
       },
       {
         "id": "250ML - MILK/STRAWBERRY",
@@ -22562,8 +22672,8 @@
         "promo": 4000.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/KEJU",
-        "name": "Kanzler Bakso Keju 48 g",
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -22574,8 +22684,8 @@
         "promo": ""
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
+        "id": "48GR - SINGLES BAKSO/KEJU",
+        "name": "Kanzler Bakso Keju 48 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -22665,6 +22775,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -23077,6 +23189,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -23489,6 +23603,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -23901,6 +24017,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -24313,6 +24431,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -24725,6 +24845,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -25137,6 +25259,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -25549,6 +25673,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -25961,6 +26087,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -26373,6 +26501,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -26574,12 +26704,6 @@
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO SUGAR/ALMOND",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
         "id": "225ML - MILK ZERO/MATCHA",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
         "normal": 7500.0,
@@ -26595,12 +26719,6 @@
         "id": "240ML - CYD ZERO/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
         "normal": 8700.0,
-        "promo": ""
-      },
-      {
-        "id": "225ML - MILK ZERO/CHOCOLATE",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
-        "normal": 7500.0,
         "promo": ""
       },
       {
@@ -26620,6 +26738,18 @@
         "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
         "normal": 7500.0,
         "promo": 6900.0
+      },
+      {
+        "id": "225ML - MILK ZERO SUGAR/ALMOND",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "225ML - MILK ZERO/CHOCOLATE",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
+        "normal": 7500.0,
+        "promo": ""
       },
       {
         "id": "225ML - MILK ZERO/MARIE REGAL",
@@ -26785,6 +26915,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -27197,6 +27329,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -27609,6 +27743,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -28021,6 +28157,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -28433,6 +28571,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -28845,6 +28985,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -29257,6 +29399,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -29669,6 +29813,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -30081,6 +30227,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -30204,12 +30352,6 @@
         "promo": 7900.0
       },
       {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/MILK TEA",
         "name": "Cimory Susu UHT Milk Tea 250 ml",
         "normal": 8100.0,
@@ -30237,6 +30379,12 @@
         "id": "120GR - SQ/BROWN SUGAR",
         "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
         "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 8300.0,
         "promo": ""
       },
       {
@@ -30493,6 +30641,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -30905,6 +31055,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -31317,6 +31469,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -31729,6 +31883,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -32141,6 +32297,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -32450,12 +32608,6 @@
         "promo": 4000.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
-        "normal": 8900.0,
-        "promo": ""
-      },
-      {
         "id": "48GR - SINGLES BAKSO/KEJU",
         "name": "Kanzler Bakso Keju 48 g",
         "normal": 8900.0,
@@ -32464,6 +32616,12 @@
       {
         "id": "48GR - SINGLES BAKSO/ORIGINAL",
         "name": "Kanzler Bakso Original 48 g",
+        "normal": 8900.0,
+        "promo": ""
+      },
+      {
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -32486,12 +32644,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 8900.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9100.0,
@@ -32506,6 +32658,12 @@
       {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
         "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 8900.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -32553,6 +32711,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -32577,12 +32737,6 @@
         "id": "250ML - MILK/MATCHA",
         "name": "Cimory Susu UHT Matcha 250 ml",
         "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 8300.0,
         "promo": ""
       },
       {
@@ -32619,6 +32773,12 @@
         "id": "120GR - SQ/BLUEBERRY",
         "name": "Cimory Yogurt Squeeze Bluberi 120 g",
         "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 8300.0,
         "promo": ""
       },
       {
@@ -32965,6 +33125,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -33377,6 +33539,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -33401,12 +33565,6 @@
         "id": "120GR - SQ/STRAWBERRY",
         "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 8300.0,
         "promo": ""
       },
       {
@@ -33444,6 +33602,12 @@
         "name": "Cimory Yogurt Stik Jeruk 40 g",
         "normal": 3000.0,
         "promo": 2900.0
+      },
+      {
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 8300.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/THAI TEA",
@@ -33789,6 +33953,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -34201,6 +34367,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -34306,12 +34474,6 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD/MIX FRUIT",
-        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
         "id": "125ML - MILK/CHOCOLATE",
         "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
         "normal": 4100.0,
@@ -34366,6 +34528,12 @@
         "promo": ""
       },
       {
+        "id": "240ML - CYD/MIX FRUIT",
+        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
         "id": "250ML - MILK/HAZELNUT",
         "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
         "normal": 8300.0,
@@ -34414,12 +34582,6 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
-        "normal": 8700.0,
-        "promo": ""
-      },
-      {
         "id": "80GR - EAT MILK/CHOCOLATE",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
         "normal": 7900.0,
@@ -34447,6 +34609,12 @@
         "id": "240ML - CYD ZERO/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
         "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
+        "normal": 8700.0,
         "promo": ""
       },
       {
@@ -34613,6 +34781,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -35025,6 +35195,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -35437,6 +35609,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -35849,6 +36023,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -35972,12 +36148,6 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
         "id": "125ML - MILK/CHOCOLATE",
         "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
         "normal": 4100.0,
@@ -36018,6 +36188,12 @@
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8600.0,
         "promo": 7900.0
+      },
+      {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 8300.0,
+        "promo": ""
       },
       {
         "id": "40GR - STICKPACK/MANGO STICKY RICE",
@@ -36261,6 +36437,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -36300,24 +36478,6 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
-      {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8800.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY",
-        "name": "Cimory Yogurt Bites Stroberi 120 g",
-        "normal": 8800.0,
-        "promo": 7900.0
-      },
-      {
         "id": "240ML - CYD/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Stroberi 240 ml",
         "normal": 9700.0,
@@ -36328,6 +36488,24 @@
         "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10400.0,
         "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY",
+        "name": "Cimory Yogurt Bites Stroberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
+      },
+      {
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
       },
       {
         "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
@@ -36390,18 +36568,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ BITES/BERRY BLEND",
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8600.0,
@@ -36430,6 +36596,18 @@
         "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
         "normal": 8600.0,
         "promo": 7900.0
+      },
+      {
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10400.0,
+        "promo": ""
       },
       {
         "id": "40GR - STICKPACK/BROWN SUGAR",
@@ -36462,15 +36640,15 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/CHOCO MALT",
         "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
         "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -36498,18 +36676,6 @@
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO/MATCHA",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 7900.0,
-        "promo": 6900.0
-      },
-      {
         "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
         "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
         "normal": 8700.0,
@@ -36520,6 +36686,18 @@
         "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
         "normal": 7500.0,
         "promo": 6900.0
+      },
+      {
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "225ML - MILK ZERO/MATCHA",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "normal": 7500.0,
+        "promo": ""
       },
       {
         "id": "225ML - MILK ZERO/MARIE REGAL",
@@ -36534,16 +36712,16 @@
         "promo": 6900.0
       },
       {
-        "id": "80GR - EAT MILK/MARIE BISCUIT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
-        "normal": 7900.0,
-        "promo": 6900.0
-      },
-      {
         "id": "240ML - CYD ZERO/TROPICAL FRUIT",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
         "normal": 8500.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MARIE BISCUIT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
       },
       {
         "id": "250ML - MILK/STRAWBERRY",
@@ -36576,14 +36754,14 @@
         "promo": ""
       },
       {
-        "id": "48GR - SINGLES BAKSO/KEJU",
-        "name": "Kanzler Bakso Keju 48 g",
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 8900.0,
         "promo": ""
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
+        "id": "48GR - SINGLES BAKSO/KEJU",
+        "name": "Kanzler Bakso Keju 48 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -36673,6 +36851,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -37085,6 +37265,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -37497,6 +37679,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -37806,14 +37990,14 @@
         "promo": 4000.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
+        "id": "48GR - SINGLES BAKSO/ORIGINAL",
+        "name": "Kanzler Bakso Original 48 g",
         "normal": 8900.0,
         "promo": ""
       },
       {
-        "id": "48GR - SINGLES BAKSO/ORIGINAL",
-        "name": "Kanzler Bakso Original 48 g",
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -37826,12 +38010,6 @@
       {
         "id": "55GR - SINGLES BAKSO/GOCHUJANG",
         "name": "Kanzler Singles Bakso Gochujang 55 g",
-        "normal": 8900.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -37862,6 +38040,12 @@
       {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
         "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 8900.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -37909,6 +38093,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -38321,6 +38507,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -38672,12 +38860,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
-        "normal": 8900.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/KEJU",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 8900.0,
@@ -38686,6 +38868,12 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 8900.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 8900.0,
         "promo": ""
       },
@@ -38733,6 +38921,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -39145,6 +39335,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -39478,6 +39670,18 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "normal": 9300.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/KEJU",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9100.0,
@@ -39492,18 +39696,6 @@
       {
         "id": "60GR - SINGLES SOSIS/HOT",
         "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9300.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9100.0,
         "promo": ""
       },
@@ -39557,6 +39749,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -39969,6 +40163,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -40086,30 +40282,6 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/GRAPE",
-        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
-      {
-        "id": "250ML - MILK/TIRAMISU",
-        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
-        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
-        "normal": 8600.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "250ML - MILK/THAI TEA",
-        "name": "Cimory Susu UHT Thai Tea 250 ml",
-        "normal": 8100.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
         "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
         "normal": 8800.0,
@@ -40146,6 +40318,30 @@
         "promo": ""
       },
       {
+        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
+        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "250ML - MILK/THAI TEA",
+        "name": "Cimory Susu UHT Thai Tea 250 ml",
+        "normal": 8100.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/GRAPE",
+        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
+      },
+      {
+        "id": "250ML - MILK/TIRAMISU",
+        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
         "id": "250ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
         "normal": 8300.0,
@@ -40164,18 +40360,6 @@
         "promo": 15300.0
       },
       {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BROWN SUGAR",
-        "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
-        "normal": 3400.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/CASHEW",
         "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
         "normal": 8300.0,
@@ -40184,6 +40368,18 @@
       {
         "id": "40GR - STICKPACK/MANGO STICKY RICE",
         "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
+        "normal": 3400.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/BROWN SUGAR",
+        "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
         "normal": 3400.0,
         "promo": ""
       },
@@ -40206,18 +40402,6 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 8700.0,
-        "promo": ""
-      },
-      {
-        "id": "225ML - MILK ZERO/MATCHA",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
         "id": "225ML - MILK ZERO SUGAR/ALMOND",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
@@ -40233,6 +40417,18 @@
         "id": "240ML - CYD ZERO/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
         "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "225ML - MILK ZERO/MATCHA",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 8700.0,
         "promo": ""
       },
       {
@@ -40266,14 +40462,14 @@
         "promo": ""
       },
       {
-        "id": "65ML - B4/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
+        "id": "65ML - B4/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
         "normal": 8200.0,
         "promo": 4000.0
       },
       {
-        "id": "65ML - B4/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
+        "id": "65ML - B4/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
         "normal": 8200.0,
         "promo": 4000.0
       },
@@ -40381,6 +40577,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -40516,12 +40714,6 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/ORIGINAL",
-        "name": "Cimory Yogurt Stik Rasa Original 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/THAI TEA",
         "name": "Cimory Susu UHT Thai Tea 250 ml",
         "normal": 8300.0,
@@ -40550,6 +40742,12 @@
         "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
         "normal": 3000.0,
         "promo": 2900.0
+      },
+      {
+        "id": "40GR - STICKPACK/ORIGINAL",
+        "name": "Cimory Yogurt Stik Rasa Original 40 g",
+        "normal": 3200.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/ALMOND",
@@ -40618,6 +40816,12 @@
         "promo": ""
       },
       {
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": 6900.0
+      },
+      {
         "id": "80GR - EAT MILK/CHOCOLATE",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
         "normal": 7900.0,
@@ -40628,12 +40832,6 @@
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
         "normal": 7500.0,
         "promo": ""
-      },
-      {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
-        "promo": 6900.0
       },
       {
         "id": "240ML - CYD ZERO/TROPICAL FRUIT",
@@ -40714,12 +40912,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9300.0,
@@ -40746,6 +40938,12 @@
       {
         "id": "60GR - SINGLES SOSIS/GOCHUJANG",
         "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9100.0,
         "promo": ""
       },
@@ -40793,44 +40991,10 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
-      {
-        "id": "240ML - CYD/PLAIN",
-        "name": "Cimory Minuman Yogurt Original 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY",
-        "name": "Cimory Yogurt Bites Stroberi 120 g",
-        "normal": 8800.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "120GR - SQ/ORIGINAL",
-        "name": "Cimory Yogurt Squeeze Original 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
       {
         "id": "40GR - STICKPACK/ORANGE",
         "name": "Cimory Yogurt Stik Jeruk 40 g",
@@ -40850,6 +41014,42 @@
         "promo": ""
       },
       {
+        "id": "240ML - CYD/PLAIN",
+        "name": "Cimory Minuman Yogurt Original 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY",
+        "name": "Cimory Yogurt Bites Stroberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/ORIGINAL",
+        "name": "Cimory Yogurt Squeeze Original 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
         "id": "240ML - CYD/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Stroberi 240 ml",
         "normal": 9700.0,
@@ -40862,10 +41062,46 @@
         "promo": ""
       },
       {
+        "id": "250ML - MILK/MILK TEA",
+        "name": "Cimory Susu UHT Milk Tea 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
         "id": "120GR - SQ BITES/BERRY BLEND",
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8600.0,
         "promo": 7900.0
+      },
+      {
+        "id": "240ML - CYD/MIXED BERRY",
+        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/STRAWBERRY",
+        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 8500.0,
+        "promo": ""
       },
       {
         "id": "40GR - STICKPACK/ORIGINAL",
@@ -40886,12 +41122,6 @@
         "promo": 7900.0
       },
       {
-        "id": "240ML - CYD/MIXED BERRY",
-        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/TIRAMISU",
         "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
         "normal": 8300.0,
@@ -40901,18 +41131,6 @@
         "id": "240ML - CYD/MIX FRUIT",
         "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
         "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/MILK TEA",
-        "name": "Cimory Susu UHT Milk Tea 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -40928,18 +41146,6 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/STRAWBERRY",
-        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
         "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
         "normal": 8800.0,
@@ -40952,14 +41158,20 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
+        "id": "250ML - MILK/CASHEW",
+        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
         "normal": 8500.0,
         "promo": ""
       },
@@ -40982,39 +41194,9 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CASHEW",
-        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "225ML - MILK ZERO SUGAR/ALMOND",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 7900.0,
-        "promo": 6900.0
-      },
-      {
         "id": "240ML - CYD ZERO/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
         "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "225ML - MILK ZERO/CHOCOLATE",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
-        "normal": 7500.0,
         "promo": ""
       },
       {
@@ -41024,10 +41206,10 @@
         "promo": 6900.0
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 8700.0,
-        "promo": ""
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
       },
       {
         "id": "240ML - CYD ZERO/STRAWBERRY",
@@ -41042,6 +41224,30 @@
         "promo": ""
       },
       {
+        "id": "225ML - MILK ZERO SUGAR/ALMOND",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "225ML - MILK ZERO/CHOCOLATE",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 8700.0,
+        "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MARIE BISCUIT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
+      },
+      {
         "id": "80GR - EAT MILK/HAZELNUT",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
         "normal": 7900.0,
@@ -41052,12 +41258,6 @@
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
         "normal": 8500.0,
         "promo": ""
-      },
-      {
-        "id": "80GR - EAT MILK/MARIE BISCUIT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
-        "normal": 7900.0,
-        "promo": 6900.0
       },
       {
         "id": "225ML - MILK ZERO/MARIE REGAL",
@@ -41090,14 +41290,14 @@
         "promo": 15300.0
       },
       {
-        "id": "65ML - B4/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
+        "id": "65ML - B4/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
         "normal": 8200.0,
         "promo": 4000.0
       },
       {
-        "id": "65ML - B4/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
+        "id": "65ML - B4/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
         "normal": 8200.0,
         "promo": 4000.0
       },
@@ -41132,6 +41332,12 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/GOCHUJANG",
         "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9100.0,
@@ -41152,12 +41358,6 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9100.0,
         "promo": ""
       },
@@ -41205,6 +41405,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -41218,12 +41420,6 @@
         "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10400.0,
         "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8800.0,
-        "promo": 7900.0
       },
       {
         "id": "240ML - CYD/PLAIN",
@@ -41272,6 +41468,12 @@
         "name": "Cimory Yogurt Stik Jeruk 40 g",
         "normal": 3000.0,
         "promo": 2900.0
+      },
+      {
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
       },
       {
         "id": "250ML - MILK/THAI TEA",
@@ -41376,12 +41578,6 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/CASHEW",
         "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
         "normal": 8500.0,
@@ -41406,10 +41602,10 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 7900.0,
-        "promo": 6900.0
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
       },
       {
         "id": "225ML - MILK ZERO/MATCHA",
@@ -41452,6 +41648,12 @@
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
       },
       {
         "id": "80GR - EAT MILK/HAZELNUT",
@@ -41617,6 +41819,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -42029,6 +42233,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -42441,6 +42647,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -42576,12 +42784,6 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "240ML - CYD/MIXED BERRY",
         "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
         "normal": 9700.0,
@@ -42609,6 +42811,12 @@
         "id": "250ML - MILK/THAI TEA",
         "name": "Cimory Susu UHT Thai Tea 250 ml",
         "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -42853,6 +43061,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -43265,6 +43475,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -43677,6 +43889,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -43788,12 +44002,6 @@
         "promo": ""
       },
       {
-        "id": "125ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
-        "normal": 4100.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ/BROWN SUGAR",
         "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
         "normal": 10400.0,
@@ -43854,6 +44062,12 @@
         "promo": 15300.0
       },
       {
+        "id": "125ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
+        "normal": 4100.0,
+        "promo": ""
+      },
+      {
         "id": "40GR - STICKPACK/BROWN SUGAR",
         "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
         "normal": 3200.0,
@@ -43863,12 +44077,6 @@
         "id": "40GR - STICKPACK/MANGO STICKY RICE",
         "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
         "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
-        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -43896,6 +44104,12 @@
         "promo": 15300.0
       },
       {
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
         "id": "80GR - EAT MILK/MACHA",
         "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
         "normal": 7500.0,
@@ -43920,12 +44134,6 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "240ML - CYD ZERO/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
         "normal": 8700.0,
@@ -43941,6 +44149,12 @@
         "id": "225ML - MILK ZERO/CHOCOLATE",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
         "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -44046,9 +44260,15 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "normal": 9300.0,
         "promo": ""
       },
       {
@@ -44064,15 +44284,9 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9300.0,
         "promo": ""
       },
       {
@@ -44089,6 +44303,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -44501,6 +44717,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -44913,6 +45131,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -45325,6 +45545,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -45737,6 +45959,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -45782,12 +46006,6 @@
         "promo": 7900.0
       },
       {
-        "id": "250ML - MILK/MATCHA",
-        "name": "Cimory Susu UHT Matcha 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "240ML - CYD/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Bluberi 240 ml",
         "normal": 9700.0,
@@ -45804,6 +46022,12 @@
         "name": "Cimory Yogurt Stik Jeruk 40 g",
         "normal": 3000.0,
         "promo": 2900.0
+      },
+      {
+        "id": "250ML - MILK/MATCHA",
+        "name": "Cimory Susu UHT Matcha 250 ml",
+        "normal": 8500.0,
+        "promo": ""
       },
       {
         "id": "40GR - STICKPACK/STRAWBERRY",
@@ -46100,14 +46324,20 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9100.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "normal": 9300.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9100.0,
         "promo": ""
       },
@@ -46121,12 +46351,6 @@
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9300.0,
         "promo": ""
       },
       {
@@ -46149,14 +46373,10 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
-      {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
       {
         "id": "240ML - CYD/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Stroberi 240 ml",
@@ -46216,6 +46436,12 @@
         "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10600.0,
         "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
       },
       {
         "id": "40GR - STICKPACK/GRAPE",
@@ -46561,6 +46787,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -46973,6 +47201,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -47385,6 +47615,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -47797,6 +48029,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -48209,6 +48443,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -48621,6 +48857,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -48720,12 +48958,6 @@
         "promo": ""
       },
       {
-        "id": "750ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
-        "normal": 17500.0,
-        "promo": 15300.0
-      },
-      {
         "id": "40GR - STICKPACK/STRAWBERRY",
         "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
         "normal": 3400.0,
@@ -48792,6 +49024,12 @@
         "promo": ""
       },
       {
+        "id": "750ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
+        "normal": 17500.0,
+        "promo": 15300.0
+      },
+      {
         "id": "40GR - STICKPACK/BROWN SUGAR",
         "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
         "normal": 3400.0,
@@ -48826,6 +49064,12 @@
         "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
         "normal": 8300.0,
         "promo": ""
+      },
+      {
+        "id": "750ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
+        "normal": 17700.0,
+        "promo": 15300.0
       },
       {
         "id": "80GR - EAT MILK/MACHA",
@@ -48910,12 +49154,6 @@
         "name": "Cimory Yogurt Bites Yuzu 120 g",
         "normal": 8800.0,
         "promo": 4900.0
-      },
-      {
-        "id": "750ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
-        "normal": 17700.0,
-        "promo": 15300.0
       },
       {
         "id": "65ML - B4/STRAWBERRY",
@@ -49033,6 +49271,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -49445,6 +49685,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -49857,6 +50099,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -50269,14 +50513,10 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
-      {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8800.0,
-        "promo": 7900.0
-      },
       {
         "id": "40GR - STICKPACK/ORANGE",
         "name": "Cimory Yogurt Stik Jeruk 40 g",
@@ -50340,6 +50580,12 @@
       {
         "id": "120GR - SQ BITES/STRAWBERRY",
         "name": "Cimory Yogurt Bites Stroberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
         "normal": 8800.0,
         "promo": 7900.0
       },
@@ -50434,16 +50680,16 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/BERRY BLEND",
-        "name": "Cimory Yogurt Bites Berry Blend 120 g",
-        "normal": 8600.0,
-        "promo": 7900.0
-      },
-      {
         "id": "250ML - MILK/TIRAMISU",
         "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
         "normal": 8300.0,
         "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/BERRY BLEND",
+        "name": "Cimory Yogurt Bites Berry Blend 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
       },
       {
         "id": "250ML - MILK/ALMOND",
@@ -50681,61 +50927,15 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
         "id": "120GR - SQ BITES/BLUEBERRY",
         "name": "Cimory Yogurt Bites Bluberi 120 g",
         "normal": 8800.0,
-        "promo": 8200.0
-      },
-      {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/YUZU",
-        "name": "Cimory Yogurt Bites Yuzu 120 g",
-        "normal": 8800.0,
-        "promo": 5200.0
-      },
-      {
-        "id": "240ML - CYD/PLAIN",
-        "name": "Cimory Minuman Yogurt Original 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
-      },
-      {
-        "id": "240ML - CYD/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
-        "normal": 9700.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
-        "normal": 10400.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY",
-        "name": "Cimory Yogurt Bites Stroberi 120 g",
-        "normal": 8800.0,
-        "promo": 8200.0
+        "promo": 7900.0
       },
       {
         "id": "240ML - CYD/STRAWBERRY",
@@ -50750,15 +50950,57 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MATCHA",
-        "name": "Cimory Susu UHT Matcha 250 ml",
-        "normal": 8500.0,
+        "id": "240ML - CYD/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
+        "normal": 9700.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/TIRAMISU",
-        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/YUZU",
+        "name": "Cimory Yogurt Bites Yuzu 120 g",
+        "normal": 8800.0,
+        "promo": 4900.0
+      },
+      {
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
+      },
+      {
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
         "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY",
+        "name": "Cimory Yogurt Bites Stroberi 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "240ML - CYD/PLAIN",
+        "name": "Cimory Minuman Yogurt Original 240 ml",
+        "normal": 9700.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MATCHA",
+        "name": "Cimory Susu UHT Matcha 250 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -50768,46 +51010,10 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/THAI TEA",
-        "name": "Cimory Susu UHT Thai Tea 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/STRAWBERRY",
-        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
-        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
-        "normal": 8600.0,
-        "promo": 8000.0
-      },
-      {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/BERRY BLEND",
-        "name": "Cimory Yogurt Bites Berry Blend 120 g",
-        "normal": 8600.0,
-        "promo": 8000.0
-      },
-      {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10400.0,
-        "promo": ""
+        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
+        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
       },
       {
         "id": "250ML - MILK/MILK TEA",
@@ -50816,9 +51022,9 @@
         "promo": ""
       },
       {
-        "id": "125ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
-        "normal": 4100.0,
+        "id": "250ML - MILK/TIRAMISU",
+        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "normal": 8300.0,
         "promo": ""
       },
       {
@@ -50834,16 +51040,34 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/GRAPE",
-        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
-        "normal": 3000.0,
-        "promo": 2900.0
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
-        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
-        "normal": 8800.0,
-        "promo": 8200.0
+        "id": "40GR - STICKPACK/STRAWBERRY",
+        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/BERRY BLEND",
+        "name": "Cimory Yogurt Bites Berry Blend 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "250ML - MILK/THAI TEA",
+        "name": "Cimory Susu UHT Thai Tea 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
+        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "normal": 8600.0,
+        "promo": 7900.0
       },
       {
         "id": "240ML - CYD/MIXED BERRY",
@@ -50852,10 +51076,40 @@
         "promo": ""
       },
       {
+        "id": "40GR - STICKPACK/GRAPE",
+        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
+        "normal": 3000.0,
+        "promo": 2900.0
+      },
+      {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10400.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
         "id": "750ML - MILK/CHOCOLATE",
         "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
         "normal": 17500.0,
-        "promo": 15500.0
+        "promo": 15300.0
+      },
+      {
+        "id": "125ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
+        "normal": 4100.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
+        "normal": 3200.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/CASHEW",
@@ -50876,10 +51130,10 @@
         "promo": ""
       },
       {
-        "id": "750ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
-        "normal": 17700.0,
-        "promo": 15700.0
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
       },
       {
         "id": "40GR - STICKPACK/BROWN SUGAR",
@@ -50888,15 +51142,27 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
-        "normal": 3200.0,
+        "id": "750ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
+        "normal": 17700.0,
+        "promo": 15300.0
+      },
+      {
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "240ML - CYD ZERO/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
-        "normal": 8500.0,
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 8700.0,
         "promo": ""
       },
       {
@@ -50906,34 +51172,16 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 7900.0,
-        "promo": 7300.0
-      },
-      {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 8700.0,
-        "promo": ""
-      },
-      {
         "id": "65ML - B4/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
         "normal": 8500.0,
-        "promo": 4500.0
+        "promo": 4000.0
       },
       {
-        "id": "80GR - EAT MILK/MARIE BISCUIT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
+        "id": "80GR - EAT MILK/HAZELNUT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
         "normal": 7900.0,
-        "promo": 7300.0
+        "promo": 6900.0
       },
       {
         "id": "240ML - CYD ZERO/TROPICAL FRUIT",
@@ -50942,10 +51190,10 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/HAZELNUT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
+        "id": "80GR - EAT MILK/MARIE BISCUIT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
         "normal": 7900.0,
-        "promo": 7300.0
+        "promo": 6900.0
       },
       {
         "id": "80GR - EAT MILK/MACHA",
@@ -50963,13 +51211,7 @@
         "id": "65ML - B4/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
         "normal": 8500.0,
-        "promo": 4500.0
-      },
-      {
-        "id": "48GR - SINGLES BAKSO/KEJU",
-        "name": "Kanzler Bakso Keju 48 g",
-        "normal": 8900.0,
-        "promo": ""
+        "promo": 4000.0
       },
       {
         "id": "48GR - SINGLES BAKSO/ORIGINAL",
@@ -50984,33 +51226,15 @@
         "promo": ""
       },
       {
-        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
-        "name": "Kanzler Singles Bakso Gochujang 55 g",
+        "id": "48GR - SINGLES BAKSO/KEJU",
+        "name": "Kanzler Bakso Keju 48 g",
         "normal": 8900.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9300.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
-        "normal": 9100.0,
+        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
+        "name": "Kanzler Singles Bakso Gochujang 55 g",
+        "normal": 8900.0,
         "promo": ""
       },
       {
@@ -51022,6 +51246,30 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "normal": 9300.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9100.0,
         "promo": ""
       },
@@ -51069,6 +51317,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -51481,6 +51731,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -51893,6 +52145,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -52305,6 +52559,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -52717,6 +52973,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -52906,12 +53164,6 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
         "id": "750ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
         "normal": 17700.0,
@@ -52926,6 +53178,12 @@
       {
         "id": "250ML - MILK/HAZELNUT",
         "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
+        "normal": 8300.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
         "normal": 8300.0,
         "promo": ""
       },
@@ -53129,6 +53387,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -53541,6 +53801,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -53953,6 +54215,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -54365,6 +54629,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -54735,6 +55001,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -55147,6 +55415,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -55559,6 +55829,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -55640,12 +55912,6 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 8300.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/THAI TEA",
         "name": "Cimory Susu UHT Thai Tea 250 ml",
         "normal": 8100.0,
@@ -55700,12 +55966,6 @@
         "promo": 2900.0
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
-        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
-        "normal": 8800.0,
-        "promo": 7900.0
-      },
-      {
         "id": "120GR - SQ BITES/STRAWBERRY MANGO",
         "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
         "normal": 8600.0,
@@ -55716,6 +55976,18 @@
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8600.0,
         "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
+        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
+        "normal": 8800.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 8300.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/CASHEW",
@@ -55971,6 +56243,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -56383,6 +56657,8 @@
     "fc_code": "LZ01",
     "branch_name": "LAMPUNG",
     "mds_name": "ANGGI NOVRI ANDIKA",
+    "latitude": "",
+    "longitude": "",
     "last_updated": "2026-01-25",
     "products": [
       {

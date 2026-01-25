@@ -5,6 +5,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.49677904",
+    "longitude": "124.8706875",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -212,12 +214,6 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "240ML - CYD ZERO/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
         "normal": 8500.0,
@@ -258,6 +254,12 @@
         "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
         "normal": 7500.0,
         "promo": 6900.0
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
+        "normal": 8500.0,
+        "promo": ""
       },
       {
         "id": "80GR - EAT MILK/HAZELNUT",
@@ -417,6 +419,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.492484564",
+    "longitude": "124.8592988",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -829,6 +833,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4913859",
+    "longitude": "124.8546571",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -1235,6 +1241,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.487062508",
+    "longitude": "124.8551873",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -1647,6 +1655,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.491322838",
+    "longitude": "124.8503068",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -1716,12 +1726,6 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/GRAPE",
-        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
-        "normal": 3000.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ BITES/STRAWBERRY MANGO",
         "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
         "normal": 9300.0,
@@ -1749,6 +1753,12 @@
         "id": "125ML - MILK/CHOCOLATE",
         "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
         "normal": 3600.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/GRAPE",
+        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
+        "normal": 3000.0,
         "promo": ""
       },
       {
@@ -2035,6 +2045,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.500748011",
+    "longitude": "124.8453546",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -2447,6 +2459,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.503683442",
+    "longitude": "124.8444843",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -2464,12 +2478,6 @@
       {
         "id": "120GR - SQ/BLUEBERRY",
         "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10500.0,
         "promo": ""
       },
@@ -2520,6 +2528,12 @@
         "name": "Cimory Yogurt Bites Yuzu 120 g",
         "normal": 9300.0,
         "promo": 4900.0
+      },
+      {
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 10500.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/THAI TEA",
@@ -2835,6 +2849,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5024274",
+    "longitude": "124.8419709",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -3247,6 +3263,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5097061",
+    "longitude": "124.8474060",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -3659,6 +3677,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5205625",
+    "longitude": "124.8501875",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -4071,6 +4091,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.524264983",
+    "longitude": "124.8505482",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -4483,6 +4505,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5126875",
+    "longitude": "124.8508125",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -4895,6 +4919,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.504936366",
+    "longitude": "124.8511866",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -4934,6 +4960,18 @@
         "promo": 7900.0
       },
       {
+        "id": "240ML - CYD/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
         "id": "250ML - MILK/MATCHA",
         "name": "Cimory Susu UHT Matcha 250 ml",
         "normal": 7800.0,
@@ -4949,18 +4987,6 @@
         "id": "250ML - MILK/CHOCOLATE",
         "name": "Cimory Susu UHT Cokelat 250 ml",
         "normal": 7700.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
-        "normal": 9100.0,
         "promo": ""
       },
       {
@@ -5036,18 +5062,6 @@
         "promo": 7900.0
       },
       {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/MIX FRUIT",
-        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/MARIE REGAL",
         "name": "Cimory Susu UHT Biskuit Marie 250 ml",
         "normal": 7700.0,
@@ -5057,6 +5071,18 @@
         "id": "120GR - SQ/BROWN SUGAR",
         "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
         "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/MIX FRUIT",
+        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
+        "normal": 9100.0,
         "promo": ""
       },
       {
@@ -5114,6 +5140,18 @@
         "promo": ""
       },
       {
+        "id": "225ML - MILK ZERO/MATCHA",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
         "id": "225ML - MILK ZERO/CHOCOLATE",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
         "normal": 7500.0,
@@ -5135,18 +5173,6 @@
         "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
         "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
         "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "225ML - MILK ZERO/MATCHA",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD ZERO/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
-        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -5210,14 +5236,14 @@
         "promo": 8900.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/KEJU",
-        "name": "Kanzler Bakso Keju 48 g",
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
+        "id": "48GR - SINGLES BAKSO/KEJU",
+        "name": "Kanzler Bakso Keju 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -5307,8 +5333,16 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4997448",
+    "longitude": "124.8553497",
     "last_updated": "2026-01-25",
     "products": [
+      {
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 7700.0,
+        "promo": ""
+      },
       {
         "id": "240ML - CYD/PLAIN",
         "name": "Cimory Minuman Yogurt Original 240 ml",
@@ -5370,9 +5404,9 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 7700.0,
+        "id": "250ML - MILK/MILK TEA",
+        "name": "Cimory Susu UHT Milk Tea 250 ml",
+        "normal": 7500.0,
         "promo": ""
       },
       {
@@ -5472,10 +5506,10 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MILK TEA",
-        "name": "Cimory Susu UHT Milk Tea 250 ml",
-        "normal": 7500.0,
-        "promo": ""
+        "id": "750ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
+        "normal": 17500.0,
+        "promo": 15300.0
       },
       {
         "id": "250ML - MILK/CHOCO MALT",
@@ -5512,12 +5546,6 @@
         "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
         "normal": 7700.0,
         "promo": ""
-      },
-      {
-        "id": "750ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
-        "normal": 17500.0,
-        "promo": 15300.0
       },
       {
         "id": "225ML - MILK ZERO SUGAR/ALMOND",
@@ -5719,6 +5747,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5161465",
+    "longitude": "124.8692798",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -5731,12 +5761,6 @@
         "id": "240ML - CYD/PLAIN",
         "name": "Cimory Minuman Yogurt Original 240 ml",
         "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 7700.0,
         "promo": ""
       },
       {
@@ -5797,6 +5821,12 @@
         "id": "120GR - SQ/STRAWBERRY",
         "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 7700.0,
         "promo": ""
       },
       {
@@ -6125,6 +6155,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4504668",
+    "longitude": "124.8547503",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -6440,14 +6472,14 @@
         "promo": 8900.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
+        "id": "48GR - SINGLES BAKSO/KEJU",
+        "name": "Kanzler Bakso Keju 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/KEJU",
-        "name": "Kanzler Bakso Keju 48 g",
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -6537,6 +6569,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4425210",
+    "longitude": "124.8520312",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -6949,6 +6983,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.43916781",
+    "longitude": "124.8476465",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -7361,6 +7397,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.434771056",
+    "longitude": "124.8444813",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -7773,14 +7811,10 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.429994363",
+    "longitude": "124.8434761",
     "last_updated": "2026-01-25",
     "products": [
-      {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
       {
         "id": "120GR - SQ BITES/STRAWBERRY",
         "name": "Cimory Yogurt Bites Stroberi 120 g",
@@ -7845,6 +7879,12 @@
         "id": "120GR - SQ/STRAWBERRY",
         "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 8000.0,
         "promo": ""
       },
       {
@@ -8185,6 +8225,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.427410987",
+    "longitude": "124.8385976",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -8597,6 +8639,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4251018",
+    "longitude": "124.8377521",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -8609,12 +8653,6 @@
         "id": "240ML - CYD/PLAIN",
         "name": "Cimory Minuman Yogurt Original 240 ml",
         "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10500.0,
         "promo": ""
       },
       {
@@ -8663,6 +8701,12 @@
         "id": "240ML - CYD/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Stroberi 240 ml",
         "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10500.0,
         "promo": ""
       },
       {
@@ -8930,12 +8974,6 @@
         "promo": 8900.0
       },
       {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/HOT",
         "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
@@ -8962,6 +9000,12 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -9009,6 +9053,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.443314272",
+    "longitude": "124.8376455",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -9421,6 +9467,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4462072",
+    "longitude": "124.8352244",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -9754,6 +9802,12 @@
         "promo": 8900.0
       },
       {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
         "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9200.0,
@@ -9774,12 +9828,6 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -9833,6 +9881,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.453469338",
+    "longitude": "124.8285397",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -10245,6 +10295,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.45753722",
+    "longitude": "124.8243284",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -10554,12 +10606,6 @@
         "promo": ""
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
-        "normal": 9200.0,
-        "promo": 8900.0
-      },
-      {
         "id": "48GR - SINGLES BAKSO/KEJU",
         "name": "Kanzler Bakso Keju 48 g",
         "normal": 9200.0,
@@ -10568,6 +10614,12 @@
       {
         "id": "48GR - SINGLES BAKSO/ORIGINAL",
         "name": "Kanzler Bakso Original 48 g",
+        "normal": 9200.0,
+        "promo": 8900.0
+      },
+      {
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -10657,6 +10709,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4523746",
+    "longitude": "124.8244162",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -11069,6 +11123,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4544889",
+    "longitude": "124.8219002",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -11475,6 +11531,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.447805045",
+    "longitude": "124.8194658",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -11887,6 +11945,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.453934212",
+    "longitude": "124.8200621",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -12299,6 +12359,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4812009",
+    "longitude": "124.9262489",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -12705,6 +12767,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.477747026",
+    "longitude": "124.9341101",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -13117,6 +13181,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.46111386",
+    "longitude": "124.9671291",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -13523,6 +13589,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.441945207",
+    "longitude": "124.9738497",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -13935,6 +14003,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.430059523",
+    "longitude": "124.9858184",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -14347,6 +14417,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4218342",
+    "longitude": "124.9922353",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -14759,6 +14831,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.41165939",
+    "longitude": "124.9979447",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -15171,6 +15245,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.404556611",
+    "longitude": "124.9963623",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -15258,12 +15334,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
         "id": "40GR - STICKPACK/BLUEBERRY",
         "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
         "normal": 3200.0,
@@ -15334,6 +15404,12 @@
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8700.0,
         "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10500.0,
+        "promo": ""
       },
       {
         "id": "40GR - STICKPACK/BROWN SUGAR",
@@ -15504,12 +15580,6 @@
         "promo": 8900.0
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
@@ -15536,6 +15606,12 @@
       {
         "id": "60GR - SINGLES SOSIS/GOCHUJANG",
         "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -15583,6 +15659,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.401427492",
+    "longitude": "125.0060735",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -15995,6 +16073,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.3923086",
+    "longitude": "125.0414672",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -16202,6 +16282,12 @@
         "promo": ""
       },
       {
+        "id": "65ML - B4/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
+        "normal": 8000.0,
+        "promo": 4000.0
+      },
+      {
         "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
         "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
         "normal": 9100.0,
@@ -16230,12 +16316,6 @@
         "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
         "normal": 7500.0,
         "promo": 6900.0
-      },
-      {
-        "id": "65ML - B4/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
-        "normal": 8000.0,
-        "promo": 4000.0
       },
       {
         "id": "240ML - CYD ZERO/STRAWBERRY",
@@ -16322,24 +16402,6 @@
         "promo": 8900.0
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/GOCHUJANG",
         "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9200.0,
@@ -16354,6 +16416,24 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -16401,6 +16481,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.3914875",
+    "longitude": "125.0369844",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -16813,6 +16895,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.3929595",
+    "longitude": "125.0431024",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -17225,6 +17309,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.392312494",
+    "longitude": "125.0459374",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -17637,6 +17723,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.399688057",
+    "longitude": "125.0209406",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -18049,6 +18137,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.489725288",
+    "longitude": "124.8427424",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -18376,12 +18466,6 @@
         "promo": 8900.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
-        "name": "Kanzler Singles Bakso Gochujang 55 g",
-        "normal": 9200.0,
-        "promo": 8900.0
-      },
-      {
         "id": "450GR - NUGGET/CHICKEN NUGGET",
         "name": "Kanzler Naget Ayam Original 450 g",
         "normal": 57900.0,
@@ -18398,6 +18482,12 @@
         "name": "Kanzler Sosis Sapi Coktail 250 g",
         "normal": 39500.0,
         "promo": ""
+      },
+      {
+        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
+        "name": "Kanzler Singles Bakso Gochujang 55 g",
+        "normal": 9200.0,
+        "promo": 8900.0
       },
       {
         "id": "450GR - NUGGET/CRISPY SPICY",
@@ -18461,6 +18551,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4928314",
+    "longitude": "124.8410522",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -18873,6 +18965,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4958083",
+    "longitude": "124.8413010",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -19279,6 +19373,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.489038698",
+    "longitude": "124.840439",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -19691,6 +19787,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.484436852",
+    "longitude": "124.8393128",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -20024,6 +20122,12 @@
         "promo": 8900.0
       },
       {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
@@ -20050,12 +20154,6 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -20103,6 +20201,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.47948175",
+    "longitude": "124.8367629",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -20515,6 +20615,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.479579147",
+    "longitude": "124.8357546",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -20927,8 +21029,40 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4748072",
+    "longitude": "124.8369298",
     "last_updated": "2026-01-25",
     "products": [
+      {
+        "id": "250ML - MILK/MATCHA",
+        "name": "Cimory Susu UHT Matcha 250 ml",
+        "normal": 7800.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY",
+        "name": "Cimory Yogurt Bites Stroberi 120 g",
+        "normal": 9300.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "240ML - CYD/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
+        "normal": 9300.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 8000.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
+        "normal": 9300.0,
+        "promo": ""
+      },
       {
         "id": "40GR - STICKPACK/ORANGE",
         "name": "Cimory Yogurt Stik Jeruk 40 g",
@@ -20966,33 +21100,27 @@
         "promo": 7900.0
       },
       {
-        "id": "250ML - MILK/MATCHA",
-        "name": "Cimory Susu UHT Matcha 250 ml",
-        "normal": 7800.0,
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10500.0,
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY",
-        "name": "Cimory Yogurt Bites Stroberi 120 g",
-        "normal": 9300.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "240ML - CYD/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
-        "normal": 9300.0,
+        "id": "240ML - CYD/MIXED BERRY",
+        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
+        "normal": 9100.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 8000.0,
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 7700.0,
         "promo": ""
       },
       {
-        "id": "240ML - CYD/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
-        "normal": 9300.0,
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10500.0,
         "promo": ""
       },
       {
@@ -21068,27 +21196,21 @@
         "promo": 7900.0
       },
       {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10500.0,
+        "id": "750ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
+        "normal": 17500.0,
+        "promo": 15300.0
+      },
+      {
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
+        "normal": 8000.0,
         "promo": ""
       },
       {
-        "id": "240ML - CYD/MIXED BERRY",
-        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 7700.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10500.0,
+        "id": "250ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
+        "normal": 8000.0,
         "promo": ""
       },
       {
@@ -21113,42 +21235,6 @@
         "id": "40GR - STICKPACK/BROWN SUGAR",
         "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
         "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "750ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
-        "normal": 17500.0,
-        "promo": 15300.0
-      },
-      {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
-      {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 8300.0,
-        "promo": 6900.0
-      },
-      {
-        "id": "225ML - MILK ZERO SUGAR/ALMOND",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "225ML - MILK ZERO/CHOCOLATE",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
-        "normal": 7500.0,
         "promo": ""
       },
       {
@@ -21182,16 +21268,22 @@
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO/MARIE REGAL",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Marie Biscuit 225 ml",
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 8300.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "225ML - MILK ZERO SUGAR/ALMOND",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/MARIE BISCUIT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
-        "normal": 7900.0,
-        "promo": 6900.0
+        "id": "225ML - MILK ZERO/CHOCOLATE",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
+        "normal": 7500.0,
+        "promo": ""
       },
       {
         "id": "240ML - CYD ZERO/TROPICAL FRUIT",
@@ -21203,6 +21295,18 @@
         "id": "80GR - EAT MILK/HAZELNUT",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
         "normal": 8300.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "225ML - MILK ZERO/MARIE REGAL",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Marie Biscuit 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MARIE BISCUIT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
+        "normal": 7900.0,
         "promo": 6900.0
       },
       {
@@ -21224,22 +21328,16 @@
         "promo": 15300.0
       },
       {
-        "id": "65ML - B4/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
-        "normal": 8000.0,
-        "promo": 4000.0
-      },
-      {
         "id": "65ML - B4/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
         "normal": 8000.0,
         "promo": 4000.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/ORIGINAL",
-        "name": "Kanzler Bakso Original 48 g",
-        "normal": 9200.0,
-        "promo": 8900.0
+        "id": "65ML - B4/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
+        "normal": 8000.0,
+        "promo": 4000.0
       },
       {
         "id": "48GR - SINGLES BAKSO/KEJU",
@@ -21252,6 +21350,18 @@
         "name": "Kanzler Bakso Pedas 48 g",
         "normal": 9200.0,
         "promo": 8900.0
+      },
+      {
+        "id": "48GR - SINGLES BAKSO/ORIGINAL",
+        "name": "Kanzler Bakso Original 48 g",
+        "normal": 9200.0,
+        "promo": 8900.0
+      },
+      {
+        "id": "450GR - NUGGET/CHICKEN NUGGET",
+        "name": "Kanzler Naget Ayam Original 450 g",
+        "normal": 57900.0,
+        "promo": ""
       },
       {
         "id": "55GR - SINGLES BAKSO/GOCHUJANG",
@@ -21272,12 +21382,6 @@
         "promo": ""
       },
       {
-        "id": "450GR - NUGGET/CHICKEN NUGGET",
-        "name": "Kanzler Naget Ayam Original 450 g",
-        "normal": 57900.0,
-        "promo": ""
-      },
-      {
         "id": "450GR - NUGGET/CRISPY STICK",
         "name": "Kanzler Naget Ayam Krispi Pedas 450 g",
         "normal": 61900.0,
@@ -21287,24 +21391,6 @@
         "id": "450GR - NUGGET/CRISPY SPICY",
         "name": "Kanzler Stik Naget Ayam Krispi 450 g",
         "normal": 59200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
-        "normal": 9200.0,
         "promo": ""
       },
       {
@@ -21326,6 +21412,24 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
         "normal": 8900.0,
@@ -21339,6 +21443,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4690375",
+    "longitude": "124.8346719",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -21751,6 +21857,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4691875",
+    "longitude": "124.8379219",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -21880,12 +21988,6 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/THAI TEA",
-        "name": "Cimory Susu UHT Thai Tea 250 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/MILK TEA",
         "name": "Cimory Susu UHT Milk Tea 250 ml",
         "normal": 7500.0,
@@ -21932,6 +22034,12 @@
         "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
         "normal": 17500.0,
         "promo": 15300.0
+      },
+      {
+        "id": "250ML - MILK/THAI TEA",
+        "name": "Cimory Susu UHT Thai Tea 250 ml",
+        "normal": 7500.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/HAZELNUT",
@@ -22163,6 +22271,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.463192657",
+    "longitude": "124.8349292",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -22575,6 +22685,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4651875",
+    "longitude": "124.8300625",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -22818,21 +22930,9 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "225ML - MILK ZERO SUGAR/ALMOND",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 9100.0,
         "promo": ""
       },
       {
@@ -22845,6 +22945,18 @@
         "id": "225ML - MILK ZERO/MATCHA",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
         "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -22987,6 +23099,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4666149",
+    "longitude": "124.8294436",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -23399,6 +23513,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.478858756",
+    "longitude": "124.8347633",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -23811,8 +23927,16 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.480654812",
+    "longitude": "124.835075",
     "last_updated": "2026-01-25",
     "products": [
+      {
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": ""
+      },
       {
         "id": "250ML - MILK/STRAWBERRY",
         "name": "Cimory Susu UHT Stroberi 250 ml",
@@ -23841,12 +23965,6 @@
         "id": "120GR - SQ BITES/STRAWBERRY",
         "name": "Cimory Yogurt Bites Stroberi 120 g",
         "normal": 9300.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8700.0,
         "promo": 7900.0
       },
       {
@@ -23880,16 +23998,16 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/CHOCOLATE",
         "name": "Cimory Susu UHT Cokelat 250 ml",
         "normal": 7700.0,
         "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8700.0,
+        "promo": 7900.0
       },
       {
         "id": "40GR - STICKPACK/BLUEBERRY",
@@ -24223,6 +24341,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.498975735",
+    "longitude": "124.9016687",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -24635,6 +24755,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.484224545",
+    "longitude": "124.9197749",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -25047,6 +25169,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.410976056",
+    "longitude": "125.0830375",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -25459,6 +25583,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.418920438",
+    "longitude": "125.0970723",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -25871,6 +25997,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4231875",
+    "longitude": "125.1039375",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -26186,14 +26314,14 @@
         "promo": 8900.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
+        "id": "48GR - SINGLES BAKSO/ORIGINAL",
+        "name": "Kanzler Bakso Original 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/ORIGINAL",
-        "name": "Kanzler Bakso Original 48 g",
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -26283,6 +26411,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.430689822",
+    "longitude": "125.1120581",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -26695,6 +26825,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.43521624",
+    "longitude": "125.1136328",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -27082,14 +27214,14 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -27107,37 +27239,15 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.440860422",
+    "longitude": "125.1174016",
     "last_updated": "2026-01-25",
     "products": [
-      {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8700.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
       {
         "id": "120GR - SQ/STRAWBERRY",
         "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10500.0,
         "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY",
-        "name": "Cimory Yogurt Bites Stroberi 120 g",
-        "normal": 9300.0,
-        "promo": 7900.0
       },
       {
         "id": "120GR - SQ/ORIGINAL",
@@ -27158,6 +27268,24 @@
         "promo": ""
       },
       {
+        "id": "240ML - CYD/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
+        "normal": 9300.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY",
+        "name": "Cimory Yogurt Bites Stroberi 120 g",
+        "normal": 9300.0,
+        "promo": 7900.0
+      },
+      {
         "id": "240ML - CYD/PLAIN",
         "name": "Cimory Minuman Yogurt Original 240 ml",
         "normal": 9100.0,
@@ -27170,9 +27298,27 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
-        "normal": 9300.0,
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8700.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/MIX FRUIT",
+        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
+        "normal": 9100.0,
         "promo": ""
       },
       {
@@ -27191,12 +27337,6 @@
         "id": "40GR - STICKPACK/GRAPE",
         "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
         "normal": 3000.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -27230,12 +27370,6 @@
         "promo": 7900.0
       },
       {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/THAI TEA",
         "name": "Cimory Susu UHT Thai Tea 250 ml",
         "normal": 7500.0,
@@ -27246,12 +27380,6 @@
         "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
         "normal": 9300.0,
         "promo": 7900.0
-      },
-      {
-        "id": "240ML - CYD/MIX FRUIT",
-        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
-        "normal": 9100.0,
-        "promo": ""
       },
       {
         "id": "250ML - MILK/MILK TEA",
@@ -27272,21 +27400,9 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CASHEW",
-        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BROWN SUGAR",
-        "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
         "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
-        "normal": 8100.0,
         "promo": ""
       },
       {
@@ -27296,33 +27412,33 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
         "normal": 8000.0,
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO/MATCHA",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
-        "normal": 7500.0,
+        "id": "250ML - MILK/CASHEW",
+        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
+        "normal": 8000.0,
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 9100.0,
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
+        "normal": 8100.0,
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO SUGAR/ALMOND",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
-        "normal": 7500.0,
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
+        "normal": 8000.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/BROWN SUGAR",
+        "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -27356,16 +27472,22 @@
         "promo": 6900.0
       },
       {
-        "id": "225ML - MILK ZERO/MARIE REGAL",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Marie Biscuit 225 ml",
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "225ML - MILK ZERO SUGAR/ALMOND",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/MARIE BISCUIT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
-        "normal": 7900.0,
-        "promo": 6900.0
+        "id": "225ML - MILK ZERO/MATCHA",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "normal": 7500.0,
+        "promo": ""
       },
       {
         "id": "80GR - EAT MILK/HAZELNUT",
@@ -27378,6 +27500,18 @@
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
         "normal": 8500.0,
         "promo": ""
+      },
+      {
+        "id": "225ML - MILK ZERO/MARIE REGAL",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Marie Biscuit 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MARIE BISCUIT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
+        "normal": 7900.0,
+        "promo": 6900.0
       },
       {
         "id": "120GR - SQ BITES/YUZU",
@@ -27416,12 +27550,6 @@
         "promo": 4000.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/ORIGINAL",
-        "name": "Kanzler Bakso Original 48 g",
-        "normal": 9200.0,
-        "promo": 8900.0
-      },
-      {
         "id": "48GR - SINGLES BAKSO/KEJU",
         "name": "Kanzler Bakso Keju 48 g",
         "normal": 9200.0,
@@ -27434,16 +27562,10 @@
         "promo": 8900.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
-        "name": "Kanzler Singles Bakso Gochujang 55 g",
+        "id": "48GR - SINGLES BAKSO/ORIGINAL",
+        "name": "Kanzler Bakso Original 48 g",
         "normal": 9200.0,
         "promo": 8900.0
-      },
-      {
-        "id": "450GR - NUGGET/CRISPY NUGGET",
-        "name": "Kanzler Naget Ayam Krispi 450 g",
-        "normal": 59200.0,
-        "promo": ""
       },
       {
         "id": "450GR - NUGGET/CHICKEN NUGGET",
@@ -27455,6 +27577,18 @@
         "id": "250GR - COCKTAIL/BEEF COCKTAIL",
         "name": "Kanzler Sosis Sapi Coktail 250 g",
         "normal": 39500.0,
+        "promo": ""
+      },
+      {
+        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
+        "name": "Kanzler Singles Bakso Gochujang 55 g",
+        "normal": 9200.0,
+        "promo": 8900.0
+      },
+      {
+        "id": "450GR - NUGGET/CRISPY NUGGET",
+        "name": "Kanzler Naget Ayam Krispi 450 g",
+        "normal": 59200.0,
         "promo": ""
       },
       {
@@ -27470,14 +27604,14 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/KEJU",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/KEJU 2X",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -27494,14 +27628,14 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "id": "60GR - SINGLES SOSIS/KEJU",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9200.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "id": "60GR - SINGLES SOSIS/KEJU 2X",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -27519,6 +27653,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.444493973",
+    "longitude": "125.1217251",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -27744,12 +27880,6 @@
         "promo": 6900.0
       },
       {
-        "id": "225ML - MILK ZERO SUGAR/ALMOND",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
         "id": "225ML - MILK ZERO/MATCHA",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
         "normal": 7500.0,
@@ -27777,6 +27907,12 @@
         "id": "240ML - CYD ZERO/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
         "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "225ML - MILK ZERO SUGAR/ALMOND",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
+        "normal": 7500.0,
         "promo": ""
       },
       {
@@ -27931,6 +28067,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.447156138",
+    "longitude": "125.135311",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -28343,6 +28481,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.448037536",
+    "longitude": "125.1277811",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -28670,12 +28810,6 @@
         "promo": 8900.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
-        "name": "Kanzler Singles Bakso Gochujang 55 g",
-        "normal": 9200.0,
-        "promo": 8900.0
-      },
-      {
         "id": "450GR - NUGGET/CHICKEN NUGGET",
         "name": "Kanzler Naget Ayam Original 450 g",
         "normal": 57900.0,
@@ -28694,6 +28828,12 @@
         "promo": ""
       },
       {
+        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
+        "name": "Kanzler Singles Bakso Gochujang 55 g",
+        "normal": 9200.0,
+        "promo": 8900.0
+      },
+      {
         "id": "450GR - NUGGET/CRISPY SPICY",
         "name": "Kanzler Stik Naget Ayam Krispi 450 g",
         "normal": 59200.0,
@@ -28708,12 +28848,6 @@
       {
         "id": "60GR - SINGLES SOSIS/HOT",
         "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -28742,6 +28876,12 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
         "normal": 0.0,
@@ -28755,6 +28895,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4501997",
+    "longitude": "125.1400002",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -28842,12 +28984,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/MILK TEA",
         "name": "Cimory Susu UHT Milk Tea 250 ml",
         "normal": 7500.0,
@@ -28930,6 +29066,12 @@
         "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
         "normal": 9300.0,
         "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10500.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/CHOCO MALT",
@@ -29167,6 +29309,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.447238459",
+    "longitude": "125.1416886",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -29579,8 +29723,52 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.446937647",
+    "longitude": "125.1484393",
     "last_updated": "2026-01-25",
     "products": [
+      {
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/PLAIN",
+        "name": "Cimory Minuman Yogurt Original 240 ml",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/ORIGINAL",
+        "name": "Cimory Yogurt Squeeze Original 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8700.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "250ML - MILK/MATCHA",
+        "name": "Cimory Susu UHT Matcha 250 ml",
+        "normal": 7800.0,
+        "promo": ""
+      },
       {
         "id": "120GR - SQ BITES/STRAWBERRY",
         "name": "Cimory Yogurt Bites Stroberi 120 g",
@@ -29606,58 +29794,16 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
+        "id": "40GR - STICKPACK/ORIGINAL",
+        "name": "Cimory Yogurt Stik Rasa Original 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/PLAIN",
-        "name": "Cimory Minuman Yogurt Original 240 ml",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/ORIGINAL",
-        "name": "Cimory Yogurt Squeeze Original 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "id": "120GR - SQ BITES/BERRY BLEND",
+        "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8700.0,
         "promo": 7900.0
-      },
-      {
-        "id": "250ML - MILK/MATCHA",
-        "name": "Cimory Susu UHT Matcha 250 ml",
-        "normal": 7800.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 7700.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10500.0,
-        "promo": ""
       },
       {
         "id": "250ML - MILK/THAI TEA",
@@ -29676,18 +29822,6 @@
         "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
         "normal": 3700.0,
         "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/ORIGINAL",
-        "name": "Cimory Yogurt Stik Rasa Original 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/BERRY BLEND",
-        "name": "Cimory Yogurt Bites Berry Blend 120 g",
-        "normal": 8700.0,
-        "promo": 7900.0
       },
       {
         "id": "250ML - MILK/MILK TEA",
@@ -29732,6 +29866,18 @@
         "promo": ""
       },
       {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 7700.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
         "id": "250ML - MILK/CASHEW",
         "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
         "normal": 8000.0,
@@ -29768,30 +29914,6 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
-        "promo": 6900.0
-      },
-      {
-        "id": "65ML - B4/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
-        "normal": 8000.0,
-        "promo": 4000.0
-      },
-      {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "225ML - MILK ZERO/MATCHA",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
         "id": "80GR - EAT MILK/CHOCOLATE",
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
         "normal": 8300.0,
@@ -29822,16 +29944,28 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/TROPICAL FRUIT",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
-        "normal": 8500.0,
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "65ML - B4/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
+        "normal": 8000.0,
+        "promo": 4000.0
+      },
+      {
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 9100.0,
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/HAZELNUT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
-        "normal": 8300.0,
-        "promo": 6900.0
+        "id": "225ML - MILK ZERO/MATCHA",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "normal": 7500.0,
+        "promo": ""
       },
       {
         "id": "225ML - MILK ZERO/MARIE REGAL",
@@ -29843,6 +29977,18 @@
         "id": "80GR - EAT MILK/MARIE BISCUIT",
         "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
         "normal": 7900.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "240ML - CYD ZERO/TROPICAL FRUIT",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/HAZELNUT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
+        "normal": 8300.0,
         "promo": 6900.0
       },
       {
@@ -29888,12 +30034,6 @@
         "promo": ""
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
-        "normal": 9200.0,
-        "promo": 8900.0
-      },
-      {
         "id": "48GR - SINGLES BAKSO/ORIGINAL",
         "name": "Kanzler Bakso Original 48 g",
         "normal": 9200.0,
@@ -29902,6 +30042,12 @@
       {
         "id": "48GR - SINGLES BAKSO/KEJU",
         "name": "Kanzler Bakso Keju 48 g",
+        "normal": 9200.0,
+        "promo": 8900.0
+      },
+      {
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -29942,18 +30088,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/KEJU",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/KEJU 2X",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
         "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9200.0,
@@ -29978,6 +30112,18 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/KEJU",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/KEJU 2X",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
         "normal": 8900.0,
@@ -29991,6 +30137,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5415665",
+    "longitude": "124.9006395",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -30403,6 +30551,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.538986255",
+    "longitude": "124.9046809",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -30815,12 +30965,50 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5428786",
+    "longitude": "124.9221005",
     "last_updated": "2026-01-25",
     "products": [
+      {
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 15500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/PLAIN",
+        "name": "Cimory Minuman Yogurt Original 240 ml",
+        "normal": 14500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
+        "normal": 14000.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 15500.0,
+        "promo": ""
+      },
       {
         "id": "250ML - MILK/CHOCOLATE",
         "name": "Cimory Susu UHT Cokelat 250 ml",
         "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MATCHA",
+        "name": "Cimory Susu UHT Matcha 250 ml",
+        "normal": 7800.0,
         "promo": ""
       },
       {
@@ -30836,51 +31024,9 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
-        "normal": 14000.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/PLAIN",
-        "name": "Cimory Minuman Yogurt Original 240 ml",
-        "normal": 14500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/MATCHA",
-        "name": "Cimory Susu UHT Matcha 250 ml",
-        "normal": 7800.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 15500.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
-        "normal": 15500.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/GRAPE",
-        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
-        "normal": 3000.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 15500.0,
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 8000.0,
         "promo": ""
       },
       {
@@ -30902,33 +31048,21 @@
         "promo": ""
       },
       {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 15500.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/GRAPE",
+        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
+        "normal": 3000.0,
+        "promo": ""
+      },
+      {
         "id": "240ML - CYD/MIX FRUIT",
         "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
         "normal": 14500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
-        "normal": 9500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CASHEW",
-        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
-        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -30938,9 +31072,27 @@
         "promo": ""
       },
       {
+        "id": "250ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
+        "normal": 9500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CASHEW",
+        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
         "id": "250ML - MILK/CHOCO MALT",
         "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
         "normal": 9000.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -30950,26 +31102,26 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
         "id": "240ML - CYD ZERO/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
         "normal": 8500.0,
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO/MATCHA",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "id": "225ML - MILK ZERO SUGAR/ALMOND",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
         "promo": ""
       },
       {
-        "id": "225ML - MILK ZERO SUGAR/ALMOND",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "225ML - MILK ZERO/MATCHA",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
         "normal": 7500.0,
         "promo": ""
       },
@@ -31124,12 +31276,6 @@
         "promo": ""
       },
       {
-        "id": "48GR - SINGLES BAKSO/KEJU",
-        "name": "Kanzler Bakso Keju 48 g",
-        "normal": 13500.0,
-        "promo": ""
-      },
-      {
         "id": "55GR - SINGLES BAKSO/HOT",
         "name": "Kanzler Bakso Pedas 48 g",
         "normal": 11000.0,
@@ -31142,15 +31288,15 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
-        "normal": 11000.0,
+        "id": "48GR - SINGLES BAKSO/KEJU",
+        "name": "Kanzler Bakso Keju 48 g",
+        "normal": 13500.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
-        "normal": 14000.0,
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 11000.0,
         "promo": ""
       },
       {
@@ -31175,6 +31321,12 @@
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 13500.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 14000.0,
         "promo": ""
       },
       {
@@ -31227,14 +31379,10 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.535279566",
+    "longitude": "124.9138013",
     "last_updated": "2026-01-25",
     "products": [
-      {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
       {
         "id": "240ML - CYD/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Bluberi 240 ml",
@@ -31294,6 +31442,12 @@
         "name": "Cimory Yogurt Bites Bluberi 120 g",
         "normal": 8700.0,
         "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10500.0,
+        "promo": ""
       },
       {
         "id": "40GR - STICKPACK/BLUEBERRY",
@@ -31590,12 +31744,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/GOCHUJANG",
         "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9200.0,
@@ -31626,6 +31774,12 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
         "normal": 8900.0,
@@ -31639,6 +31793,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.511952675",
+    "longitude": "124.9139467",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -32051,6 +32207,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.495936667",
+    "longitude": "124.8805621",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -32463,6 +32621,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.501553374",
+    "longitude": "124.8905586",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -32875,6 +33035,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.507611939",
+    "longitude": "124.8908785",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -33226,14 +33388,14 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -33287,6 +33449,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.519639134",
+    "longitude": "124.8861273",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -33699,6 +33863,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4737125",
+    "longitude": "124.8445781",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -34111,6 +34277,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4614875",
+    "longitude": "124.8529531",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -34144,18 +34312,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/ORIGINAL",
-        "name": "Cimory Yogurt Squeeze Original 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
         "id": "240ML - CYD/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Stroberi 240 ml",
         "normal": 9100.0,
@@ -34180,10 +34336,16 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
-        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
-        "normal": 9300.0,
-        "promo": 7900.0
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/ORIGINAL",
+        "name": "Cimory Yogurt Squeeze Original 120 g",
+        "normal": 10500.0,
+        "promo": ""
       },
       {
         "id": "120GR - SQ BITES/STRAWBERRY MANGO",
@@ -34270,6 +34432,12 @@
         "promo": ""
       },
       {
+        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
+        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
+        "normal": 9300.0,
+        "promo": 7900.0
+      },
+      {
         "id": "750ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
         "normal": 17500.0,
@@ -34330,12 +34498,6 @@
         "promo": 6900.0
       },
       {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
-        "promo": 6900.0
-      },
-      {
         "id": "225ML - MILK ZERO/CHOCOLATE",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
         "normal": 7500.0,
@@ -34364,6 +34526,12 @@
         "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
         "normal": 9100.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": 6900.0
       },
       {
         "id": "80GR - EAT MILK/HAZELNUT",
@@ -34523,6 +34691,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4649375",
+    "longitude": "124.8471875",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -34935,6 +35105,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.460859447",
+    "longitude": "124.8450228",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -35347,6 +35519,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.455437528",
+    "longitude": "124.8438906",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -35728,12 +35902,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/KEJU",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9200.0,
@@ -35742,6 +35910,12 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -35759,6 +35933,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.453567254",
+    "longitude": "124.8401969",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -36171,6 +36347,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.457428329",
+    "longitude": "124.8376994",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -36196,12 +36374,6 @@
         "name": "Cimory Yogurt Squeeze Bluberi 120 g",
         "normal": 10500.0,
         "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/YUZU",
-        "name": "Cimory Yogurt Bites Yuzu 120 g",
-        "normal": 9300.0,
-        "promo": 4900.0
       },
       {
         "id": "120GR - SQ/ORIGINAL",
@@ -36474,6 +36646,12 @@
         "promo": 6900.0
       },
       {
+        "id": "120GR - SQ BITES/YUZU",
+        "name": "Cimory Yogurt Bites Yuzu 120 g",
+        "normal": 9300.0,
+        "promo": 4900.0
+      },
+      {
         "id": "250ML - MILK/STRAWBERRY",
         "name": "Cimory Susu UHT Stroberi 250 ml",
         "normal": 7700.0,
@@ -36583,6 +36761,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.46092531",
+    "longitude": "124.8376616",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -36838,12 +37018,6 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 8300.0,
-        "promo": 6900.0
-      },
-      {
         "id": "80GR - EAT MILK/MACHA",
         "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
         "normal": 7500.0,
@@ -36860,6 +37034,12 @@
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
         "normal": 8500.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 8300.0,
+        "promo": 6900.0
       },
       {
         "id": "80GR - EAT MILK/MARIE BISCUIT",
@@ -36995,6 +37175,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.456561136",
+    "longitude": "124.8087018",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -37407,6 +37589,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.458937114",
+    "longitude": "124.8033665",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -37819,6 +38003,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.459758931",
+    "longitude": "124.7932468",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -38128,6 +38314,12 @@
         "promo": 4000.0
       },
       {
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
+        "normal": 9200.0,
+        "promo": 8900.0
+      },
+      {
         "id": "48GR - SINGLES BAKSO/KEJU",
         "name": "Kanzler Bakso Keju 48 g",
         "normal": 9200.0,
@@ -38136,12 +38328,6 @@
       {
         "id": "48GR - SINGLES BAKSO/ORIGINAL",
         "name": "Kanzler Bakso Original 48 g",
-        "normal": 9200.0,
-        "promo": 8900.0
-      },
-      {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -38182,14 +38368,14 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/KEJU",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/KEJU 2X",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -38206,14 +38392,14 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "id": "60GR - SINGLES SOSIS/KEJU",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9200.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "id": "60GR - SINGLES SOSIS/KEJU 2X",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -38231,6 +38417,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4566239",
+    "longitude": "124.8134137",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -38264,12 +38452,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/BLUEBERRY",
-        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ/STRAWBERRY",
         "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10500.0,
@@ -38298,6 +38480,12 @@
         "name": "Cimory Yogurt Bites Bluberi 120 g",
         "normal": 8700.0,
         "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ/BLUEBERRY",
+        "name": "Cimory Yogurt Squeeze Bluberi 120 g",
+        "normal": 10500.0,
+        "promo": ""
       },
       {
         "id": "240ML - CYD/MIXED BERRY",
@@ -38606,12 +38794,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
         "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9200.0,
@@ -38630,6 +38812,12 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
         "normal": 8900.0,
@@ -38643,6 +38831,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.458973302",
+    "longitude": "124.8209805",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -39055,6 +39245,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.485821817",
+    "longitude": "124.8346653",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -39467,6 +39659,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.478462059",
+    "longitude": "124.8336401",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -39879,6 +40073,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4963125",
+    "longitude": "124.8789375",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -40291,6 +40487,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.488835341",
+    "longitude": "124.8613344",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -40648,6 +40846,12 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/HOT",
         "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
@@ -40656,12 +40860,6 @@
       {
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -40679,6 +40877,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4867734",
+    "longitude": "124.8594887",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -40988,6 +41188,12 @@
         "promo": 6900.0
       },
       {
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
+        "normal": 9200.0,
+        "promo": 8900.0
+      },
+      {
         "id": "48GR - SINGLES BAKSO/KEJU",
         "name": "Kanzler Bakso Keju 48 g",
         "normal": 9200.0,
@@ -41000,16 +41206,16 @@
         "promo": 8900.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
-        "normal": 9200.0,
-        "promo": 8900.0
-      },
-      {
         "id": "55GR - SINGLES BAKSO/GOCHUJANG",
         "name": "Kanzler Singles Bakso Gochujang 55 g",
         "normal": 9200.0,
         "promo": 8900.0
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9200.0,
+        "promo": ""
       },
       {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
@@ -41038,12 +41244,6 @@
       {
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -41091,24 +41291,20 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.484162037",
+    "longitude": "124.847824",
     "last_updated": "2026-01-25",
     "products": [
       {
-        "id": "250ML - MILK/MATCHA",
-        "name": "Cimory Susu UHT Matcha 250 ml",
-        "normal": 7800.0,
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
-        "normal": 9300.0,
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 10500.0,
         "promo": ""
       },
       {
@@ -41124,14 +41320,8 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "id": "120GR - SQ/ORIGINAL",
+        "name": "Cimory Yogurt Squeeze Original 120 g",
         "normal": 10500.0,
         "promo": ""
       },
@@ -41142,9 +41332,9 @@
         "promo": 7900.0
       },
       {
-        "id": "120GR - SQ/ORIGINAL",
-        "name": "Cimory Yogurt Squeeze Original 120 g",
-        "normal": 10500.0,
+        "id": "250ML - MILK/MATCHA",
+        "name": "Cimory Susu UHT Matcha 250 ml",
+        "normal": 7800.0,
         "promo": ""
       },
       {
@@ -41160,15 +41350,27 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 7700.0,
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 8000.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Bluberi 240 ml",
+        "normal": 9300.0,
         "promo": ""
       },
       {
         "id": "250ML - MILK/THAI TEA",
         "name": "Cimory Susu UHT Thai Tea 250 ml",
         "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -41196,21 +41398,15 @@
         "promo": 7900.0
       },
       {
-        "id": "40GR - STICKPACK/GRAPE",
-        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
-        "normal": 3000.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/MILK TEA",
         "name": "Cimory Susu UHT Milk Tea 250 ml",
         "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/GRAPE",
+        "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
+        "normal": 3000.0,
         "promo": ""
       },
       {
@@ -41218,6 +41414,12 @@
         "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
         "normal": 9300.0,
         "promo": 7900.0
+      },
+      {
+        "id": "40GR - STICKPACK/STRAWBERRY",
+        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
       },
       {
         "id": "240ML - CYD/MIX FRUIT",
@@ -41232,12 +41434,6 @@
         "promo": 7900.0
       },
       {
-        "id": "40GR - STICKPACK/STRAWBERRY",
-        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ/MANGO STICKY RICE",
         "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
         "normal": 10500.0,
@@ -41250,15 +41446,15 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10500.0,
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 7700.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
-        "normal": 8000.0,
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10500.0,
         "promo": ""
       },
       {
@@ -41274,6 +41470,12 @@
         "promo": ""
       },
       {
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
+        "normal": 8100.0,
+        "promo": ""
+      },
+      {
         "id": "40GR - STICKPACK/BROWN SUGAR",
         "name": "Cimory Yogurt Stik Rasa Brown Sugar 40 g",
         "normal": 3200.0,
@@ -41286,15 +41488,45 @@
         "promo": 15300.0
       },
       {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
-        "normal": 8100.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/HAZELNUT",
         "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
         "normal": 8000.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
+        "normal": 8000.0,
+        "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 8300.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "65ML - B4/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
+        "normal": 8000.0,
+        "promo": 4000.0
+      },
+      {
+        "id": "225ML - MILK ZERO SUGAR/ALMOND",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "225ML - MILK ZERO/CHOCOLATE",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -41310,45 +41542,15 @@
         "promo": 4000.0
       },
       {
-        "id": "225ML - MILK ZERO/MATCHA",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 8300.0,
-        "promo": 6900.0
-      },
-      {
-        "id": "225ML - MILK ZERO SUGAR/ALMOND",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "65ML - B4/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
-        "normal": 8000.0,
-        "promo": 4000.0
-      },
-      {
-        "id": "225ML - MILK ZERO/CHOCOLATE",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD ZERO/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
         "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
         "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "225ML - MILK ZERO/MATCHA",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "normal": 7500.0,
         "promo": ""
       },
       {
@@ -41424,12 +41626,6 @@
         "promo": 8900.0
       },
       {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
         "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9200.0,
@@ -41444,6 +41640,12 @@
       {
         "id": "60GR - SINGLES SOSIS/GOCHUJANG",
         "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -41503,6 +41705,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4851875",
+    "longitude": "124.8483125",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -41891,6 +42095,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.487640098",
+    "longitude": "124.8455735",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -42303,6 +42509,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.487102626",
+    "longitude": "124.8506555",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -42715,6 +42923,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.480770843",
+    "longitude": "124.8513785",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -43127,6 +43337,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4806875",
+    "longitude": "124.8526875",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -43515,6 +43727,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4799375",
+    "longitude": "124.8618125",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -43927,6 +44141,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.480792778",
+    "longitude": "124.869354",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -44339,6 +44555,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4763125",
+    "longitude": "124.8705625",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -44516,6 +44734,12 @@
         "promo": ""
       },
       {
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
+        "normal": 8000.0,
+        "promo": ""
+      },
+      {
         "id": "40GR - STICKPACK/MANGO STICKY RICE",
         "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
         "normal": 3200.0,
@@ -44548,12 +44772,6 @@
       {
         "id": "250ML - MILK/CASHEW",
         "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
         "normal": 8000.0,
         "promo": ""
       },
@@ -44702,6 +44920,12 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
         "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9200.0,
@@ -44732,12 +44956,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
         "normal": 8900.0,
@@ -44751,6 +44969,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4723125",
+    "longitude": "124.8754375",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -45163,6 +45383,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4643756",
+    "longitude": "124.8772215",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -45575,12 +45797,26 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.471218",
+    "longitude": "124.8700613",
     "last_updated": "2026-01-25",
     "products": [
       {
         "id": "120GR - SQ/STRAWBERRY",
         "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/PLAIN",
+        "name": "Cimory Minuman Yogurt Original 240 ml",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
         "promo": ""
       },
       {
@@ -45632,15 +45868,39 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD/PLAIN",
-        "name": "Cimory Minuman Yogurt Original 240 ml",
-        "normal": 9100.0,
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
+        "id": "250ML - MILK/THAI TEA",
+        "name": "Cimory Susu UHT Thai Tea 250 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "125ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
+        "normal": 3700.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/BERRY BLEND",
+        "name": "Cimory Yogurt Bites Berry Blend 120 g",
+        "normal": 8700.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "250ML - MILK/TIRAMISU",
+        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "normal": 8000.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/ORIGINAL",
+        "name": "Cimory Yogurt Stik Rasa Original 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -45704,39 +45964,9 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/BERRY BLEND",
-        "name": "Cimory Yogurt Bites Berry Blend 120 g",
-        "normal": 8700.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "250ML - MILK/TIRAMISU",
-        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "id": "250ML - MILK/CASHEW",
+        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
         "normal": 8000.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/ORIGINAL",
-        "name": "Cimory Yogurt Stik Rasa Original 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/THAI TEA",
-        "name": "Cimory Susu UHT Thai Tea 250 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "125ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
-        "normal": 3700.0,
         "promo": ""
       },
       {
@@ -45776,10 +46006,16 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CASHEW",
-        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
+        "id": "65ML - B4/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
         "normal": 8000.0,
-        "promo": ""
+        "promo": 4000.0
+      },
+      {
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 8300.0,
+        "promo": 6900.0
       },
       {
         "id": "225ML - MILK ZERO SUGAR/ALMOND",
@@ -45824,16 +46060,10 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 8300.0,
-        "promo": 6900.0
-      },
-      {
-        "id": "65ML - B4/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
-        "normal": 8000.0,
-        "promo": 4000.0
+        "id": "225ML - MILK ZERO/MARIE REGAL",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Marie Biscuit 225 ml",
+        "normal": 7500.0,
+        "promo": ""
       },
       {
         "id": "80GR - EAT MILK/MARIE BISCUIT",
@@ -45852,12 +46082,6 @@
         "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
         "normal": 8300.0,
         "promo": 6900.0
-      },
-      {
-        "id": "225ML - MILK ZERO/MARIE REGAL",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Marie Biscuit 225 ml",
-        "normal": 7500.0,
-        "promo": ""
       },
       {
         "id": "250ML - MILK/STRAWBERRY",
@@ -45898,6 +46122,12 @@
       {
         "id": "55GR - SINGLES BAKSO/HOT",
         "name": "Kanzler Bakso Pedas 48 g",
+        "normal": 9200.0,
+        "promo": 8900.0
+      },
+      {
+        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
+        "name": "Kanzler Singles Bakso Gochujang 55 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -45920,12 +46150,6 @@
         "promo": ""
       },
       {
-        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
-        "name": "Kanzler Singles Bakso Gochujang 55 g",
-        "normal": 9200.0,
-        "promo": 8900.0
-      },
-      {
         "id": "450GR - NUGGET/CRISPY STICK",
         "name": "Kanzler Naget Ayam Krispi Pedas 450 g",
         "normal": 61900.0,
@@ -45935,6 +46159,12 @@
         "id": "450GR - NUGGET/CRISPY SPICY",
         "name": "Kanzler Stik Naget Ayam Krispi 450 g",
         "normal": 59200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9200.0,
         "promo": ""
       },
       {
@@ -45968,12 +46198,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
         "normal": 8900.0,
@@ -45987,36 +46211,14 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4993721",
+    "longitude": "124.9057582",
     "last_updated": "2026-01-25",
     "products": [
       {
-        "id": "240ML - CYD/PLAIN",
-        "name": "Cimory Minuman Yogurt Original 240 ml",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "id": "120GR - SQ/ORIGINAL",
+        "name": "Cimory Yogurt Squeeze Original 120 g",
         "normal": 10500.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
-        "normal": 9300.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
         "promo": ""
       },
       {
@@ -46026,10 +46228,10 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/ORIGINAL",
-        "name": "Cimory Yogurt Squeeze Original 120 g",
-        "normal": 10500.0,
-        "promo": ""
+        "id": "120GR - SQ BITES/STRAWBERRY",
+        "name": "Cimory Yogurt Bites Stroberi 120 g",
+        "normal": 9300.0,
+        "promo": 7900.0
       },
       {
         "id": "240ML - CYD/BLUEBERRY",
@@ -46044,10 +46246,28 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY",
-        "name": "Cimory Yogurt Bites Stroberi 120 g",
+        "id": "240ML - CYD/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
         "normal": 9300.0,
-        "promo": 7900.0
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 8000.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/PLAIN",
+        "name": "Cimory Minuman Yogurt Original 240 ml",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 10500.0,
+        "promo": ""
       },
       {
         "id": "120GR - SQ BITES/BLUEBERRY",
@@ -46056,51 +46276,9 @@
         "promo": 7900.0
       },
       {
-        "id": "240ML - CYD/MIX FRUIT",
-        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD/MIXED BERRY",
-        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/ORIGINAL",
-        "name": "Cimory Yogurt Stik Rasa Original 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 7700.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/TIRAMISU",
-        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
-      {
-        "id": "40GR - STICKPACK/STRAWBERRY",
-        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
-        "id": "125ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
-        "normal": 3700.0,
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
         "promo": ""
       },
       {
@@ -46110,27 +46288,9 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MILK TEA",
-        "name": "Cimory Susu UHT Milk Tea 250 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
         "id": "40GR - STICKPACK/GRAPE",
         "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
         "normal": 3000.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/THAI TEA",
-        "name": "Cimory Susu UHT Thai Tea 250 ml",
-        "normal": 7500.0,
         "promo": ""
       },
       {
@@ -46140,16 +46300,88 @@
         "promo": 7900.0
       },
       {
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/ORIGINAL",
+        "name": "Cimory Yogurt Stik Rasa Original 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
         "id": "120GR - SQ BITES/STRAWBERRY MANGO",
         "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
         "normal": 9300.0,
         "promo": 7900.0
       },
       {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 7700.0,
+        "promo": ""
+      },
+      {
         "id": "120GR - SQ BITES/BERRY BLEND",
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8700.0,
         "promo": 7900.0
+      },
+      {
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MILK TEA",
+        "name": "Cimory Susu UHT Milk Tea 250 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/THAI TEA",
+        "name": "Cimory Susu UHT Thai Tea 250 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/TIRAMISU",
+        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "normal": 8000.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/MIX FRUIT",
+        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/STRAWBERRY",
+        "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD/MIXED BERRY",
+        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "125ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
+        "normal": 3700.0,
+        "promo": ""
+      },
+      {
+        "id": "750ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
+        "normal": 17500.0,
+        "promo": 15300.0
       },
       {
         "id": "40GR - STICKPACK/BROWN SUGAR",
@@ -46164,14 +46396,14 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
+        "id": "250ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
         "normal": 8000.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
         "normal": 8000.0,
         "promo": ""
       },
@@ -46188,26 +46420,32 @@
         "promo": ""
       },
       {
-        "id": "750ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
-        "normal": 17500.0,
-        "promo": 15300.0
+        "id": "65ML - B4/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
+        "normal": 8300.0,
+        "promo": 4000.0
+      },
+      {
+        "id": "240ML - CYD ZERO/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
+        "id": "65ML - B4/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
+        "normal": 8300.0,
+        "promo": 4000.0
+      },
+      {
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": 6900.0
       },
       {
         "id": "225ML - MILK ZERO/CHOCOLATE",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Cokelat 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "225ML - MILK ZERO SUGAR/ALMOND",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "225ML - MILK ZERO/MATCHA",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
         "normal": 7500.0,
         "promo": ""
       },
@@ -46218,28 +46456,16 @@
         "promo": ""
       },
       {
+        "id": "225ML - MILK ZERO/MATCHA",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
         "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
         "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
         "normal": 9100.0,
         "promo": ""
-      },
-      {
-        "id": "240ML - CYD ZERO/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
-        "id": "65ML - B4/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
-        "normal": 8300.0,
-        "promo": 4000.0
-      },
-      {
-        "id": "65ML - B4/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Mini Blueberry 4 x 65 ml",
-        "normal": 8300.0,
-        "promo": 4000.0
       },
       {
         "id": "80GR - EAT MILK/CHOCOLATE",
@@ -46248,10 +46474,10 @@
         "promo": 6900.0
       },
       {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "id": "225ML - MILK ZERO SUGAR/ALMOND",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
-        "promo": 6900.0
+        "promo": ""
       },
       {
         "id": "225ML - MILK ZERO/MARIE REGAL",
@@ -46266,15 +46492,15 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/HAZELNUT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
-        "normal": 8300.0,
-        "promo": 6900.0
-      },
-      {
         "id": "80GR - EAT MILK/MARIE BISCUIT",
         "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
         "normal": 7900.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "80GR - EAT MILK/HAZELNUT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
+        "normal": 8300.0,
         "promo": 6900.0
       },
       {
@@ -46296,14 +46522,14 @@
         "promo": 15300.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/ORIGINAL",
-        "name": "Kanzler Bakso Original 48 g",
+        "id": "48GR - SINGLES BAKSO/KEJU",
+        "name": "Kanzler Bakso Keju 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/KEJU",
-        "name": "Kanzler Bakso Keju 48 g",
+        "id": "48GR - SINGLES BAKSO/ORIGINAL",
+        "name": "Kanzler Bakso Original 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -46326,12 +46552,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/KEJU",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9200.0,
@@ -46346,6 +46566,12 @@
       {
         "id": "60GR - SINGLES SOSIS/GOCHUJANG",
         "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -46399,6 +46625,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.476869882",
+    "longitude": "124.9100162",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -46558,6 +46786,12 @@
         "promo": ""
       },
       {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
         "id": "120GR - SQ BITES/STRAWBERRY MANGO",
         "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
         "normal": 9300.0,
@@ -46568,12 +46802,6 @@
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8700.0,
         "promo": 7900.0
-      },
-      {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10500.0,
-        "promo": ""
       },
       {
         "id": "250ML - MILK/ALMOND",
@@ -46774,12 +47002,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/KEJU",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9200.0,
@@ -46798,6 +47020,12 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
         "normal": 0.0,
@@ -46811,6 +47039,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4670125",
+    "longitude": "124.9243594",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -47223,6 +47453,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4600034",
+    "longitude": "124.9231003",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -47635,6 +47867,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.464809266",
+    "longitude": "124.9266921",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -47800,12 +48034,6 @@
         "promo": 7900.0
       },
       {
-        "id": "750ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
-        "normal": 17500.0,
-        "promo": 15300.0
-      },
-      {
         "id": "250ML - MILK/CHOCO MALT",
         "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
         "normal": 7800.0,
@@ -47890,12 +48118,6 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/HAZELNUT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
-        "normal": 8300.0,
-        "promo": 6900.0
-      },
-      {
         "id": "80GR - EAT MILK/MARIE BISCUIT",
         "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
         "normal": 7900.0,
@@ -47914,6 +48136,12 @@
         "promo": ""
       },
       {
+        "id": "80GR - EAT MILK/HAZELNUT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
+        "normal": 8300.0,
+        "promo": 6900.0
+      },
+      {
         "id": "120GR - SQ BITES/YUZU",
         "name": "Cimory Yogurt Bites Yuzu 120 g",
         "normal": 9300.0,
@@ -47928,6 +48156,12 @@
       {
         "id": "750ML - MILK/CHOCOLATE",
         "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
+        "normal": 17500.0,
+        "promo": 15300.0
+      },
+      {
+        "id": "750ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
         "normal": 17500.0,
         "promo": 15300.0
       },
@@ -48047,6 +48281,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.455160798",
+    "longitude": "124.939514",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -48230,12 +48466,6 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CASHEW",
-        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
         "normal": 8000.0,
@@ -48258,6 +48488,12 @@
         "name": "Cimory Susu UHT Cokelat Almond Kotak 750 ml",
         "normal": 17500.0,
         "promo": 15300.0
+      },
+      {
+        "id": "250ML - MILK/CASHEW",
+        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
+        "normal": 8000.0,
+        "promo": ""
       },
       {
         "id": "225ML - MILK ZERO/MATCHA",
@@ -48459,6 +48695,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.448562608",
+    "longitude": "124.9585623",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -48564,6 +48802,12 @@
         "promo": ""
       },
       {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
         "id": "250ML - MILK/MILK TEA",
         "name": "Cimory Susu UHT Milk Tea 250 ml",
         "normal": 7500.0,
@@ -48621,12 +48865,6 @@
         "id": "250ML - MILK/THAI TEA",
         "name": "Cimory Susu UHT Thai Tea 250 ml",
         "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10500.0,
         "promo": ""
       },
       {
@@ -48690,6 +48928,12 @@
         "promo": 6900.0
       },
       {
+        "id": "240ML - CYD ZERO/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "normal": 8500.0,
+        "promo": ""
+      },
+      {
         "id": "240ML - CYD ZERO/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Stroberi 240 ml",
         "normal": 8500.0,
@@ -48711,12 +48955,6 @@
         "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
         "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
         "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD ZERO/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
-        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -48768,6 +49006,12 @@
         "promo": 4000.0
       },
       {
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
+        "normal": 9200.0,
+        "promo": 8900.0
+      },
+      {
         "id": "48GR - SINGLES BAKSO/ORIGINAL",
         "name": "Kanzler Bakso Original 48 g",
         "normal": 9200.0,
@@ -48780,8 +49024,8 @@
         "promo": 8900.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
+        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
+        "name": "Kanzler Singles Bakso Gochujang 55 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -48802,12 +49046,6 @@
         "name": "Kanzler Naget Ayam Krispi 450 g",
         "normal": 59200.0,
         "promo": ""
-      },
-      {
-        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
-        "name": "Kanzler Singles Bakso Gochujang 55 g",
-        "normal": 9200.0,
-        "promo": 8900.0
       },
       {
         "id": "450GR - NUGGET/CRISPY STICK",
@@ -48840,6 +49078,12 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/KEJU",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9200.0,
@@ -48848,12 +49092,6 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -48871,6 +49109,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.437505393",
+    "longitude": "124.9702414",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -49283,6 +49523,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4297245",
+    "longitude": "124.9775026",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -49358,6 +49600,18 @@
         "promo": ""
       },
       {
+        "id": "125ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
+        "normal": 3600.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/BROWN SUGAR",
+        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
+        "normal": 10500.0,
+        "promo": ""
+      },
+      {
         "id": "250ML - MILK/MARIE REGAL",
         "name": "Cimory Susu UHT Biskuit Marie 250 ml",
         "normal": 7700.0,
@@ -49430,12 +49684,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/BROWN SUGAR",
-        "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/TIRAMISU",
         "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
         "normal": 7700.0,
@@ -49454,9 +49702,9 @@
         "promo": ""
       },
       {
-        "id": "125ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
-        "normal": 3600.0,
+        "id": "250ML - MILK/ALMOND",
+        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
+        "normal": 7700.0,
         "promo": ""
       },
       {
@@ -49493,12 +49741,6 @@
         "id": "250ML - MILK/CHOCO MALT",
         "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
         "normal": 7800.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/ALMOND",
-        "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
-        "normal": 7700.0,
         "promo": ""
       },
       {
@@ -49592,12 +49834,6 @@
         "promo": ""
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
-        "normal": 9200.0,
-        "promo": 8900.0
-      },
-      {
         "id": "48GR - SINGLES BAKSO/KEJU",
         "name": "Kanzler Bakso Keju 48 g",
         "normal": 9200.0,
@@ -49606,6 +49842,12 @@
       {
         "id": "48GR - SINGLES BAKSO/ORIGINAL",
         "name": "Kanzler Bakso Original 48 g",
+        "normal": 9200.0,
+        "promo": 8900.0
+      },
+      {
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -49695,6 +49937,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.427494866",
+    "longitude": "124.9796025",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -50028,12 +50272,6 @@
         "promo": 8900.0
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
@@ -50060,6 +50298,12 @@
       {
         "id": "60GR - SINGLES SOSIS/GOCHUJANG",
         "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -50107,6 +50351,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4264625",
+    "longitude": "124.9809531",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -50470,12 +50716,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/MINI",
         "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
@@ -50506,6 +50746,12 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
         "normal": 8900.0,
@@ -50519,6 +50765,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.424461721",
+    "longitude": "124.9791668",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -50931,6 +51179,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.411482602",
+    "longitude": "124.9708701",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -51343,6 +51593,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.417452079",
+    "longitude": "124.9858348",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -51712,12 +51964,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
         "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9200.0,
@@ -51742,6 +51988,12 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
         "normal": 0.0,
@@ -51755,6 +52007,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4210625",
+    "longitude": "124.9864375",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -52094,12 +52348,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/KEJU",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9200.0,
@@ -52112,14 +52360,20 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/GOCHUJANG",
         "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9200.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -52167,6 +52421,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5309592",
+    "longitude": "124.9055885",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -52579,6 +52835,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.510959058",
+    "longitude": "124.9116056",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -52991,6 +53249,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.51518103",
+    "longitude": "124.9211849",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -53403,6 +53663,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.525518282",
+    "longitude": "124.9391634",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -53466,16 +53728,16 @@
         "promo": 7900.0
       },
       {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8700.0,
-        "promo": 7900.0
-      },
-      {
         "id": "120GR - SQ BITES/YUZU",
         "name": "Cimory Yogurt Bites Yuzu 120 g",
         "normal": 9300.0,
         "promo": 4900.0
+      },
+      {
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8700.0,
+        "promo": 7900.0
       },
       {
         "id": "250ML - MILK/MARIE REGAL",
@@ -53562,15 +53824,15 @@
         "promo": 7900.0
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
-        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
-        "normal": 9300.0,
-        "promo": 7900.0
-      },
-      {
         "id": "120GR - SQ BITES/BERRY BLEND",
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8700.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
+        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "normal": 9300.0,
         "promo": 7900.0
       },
       {
@@ -53815,6 +54077,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5286875",
+    "longitude": "124.9454375",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -54172,14 +54436,14 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -54227,6 +54491,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.526162488",
+    "longitude": "124.9554828",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -54542,14 +54808,14 @@
         "promo": 8900.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
+        "id": "48GR - SINGLES BAKSO/ORIGINAL",
+        "name": "Kanzler Bakso Original 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/ORIGINAL",
-        "name": "Kanzler Bakso Original 48 g",
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -54639,44 +54905,10 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.531372077",
+    "longitude": "124.9609627",
     "last_updated": "2026-01-25",
     "products": [
-      {
-        "id": "40GR - STICKPACK/ORANGE",
-        "name": "Cimory Yogurt Stik Jeruk 40 g",
-        "normal": 3000.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ/STRAWBERRY",
-        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/YUZU",
-        "name": "Cimory Yogurt Bites Yuzu 120 g",
-        "normal": 9300.0,
-        "promo": 4900.0
-      },
-      {
-        "id": "120GR - SQ BITES/BLUEBERRY",
-        "name": "Cimory Yogurt Bites Bluberi 120 g",
-        "normal": 8700.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "250ML - MILK/MATCHA",
-        "name": "Cimory Susu UHT Matcha 250 ml",
-        "normal": 7800.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/CHOCOLATE",
-        "name": "Cimory Susu UHT Cokelat 250 ml",
-        "normal": 8000.0,
-        "promo": ""
-      },
       {
         "id": "240ML - CYD/BLUEBERRY",
         "name": "Cimory Minuman Yogurt Bluberi 240 ml",
@@ -54714,39 +54946,39 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
+        "id": "40GR - STICKPACK/ORANGE",
+        "name": "Cimory Yogurt Stik Jeruk 40 g",
+        "normal": 3000.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/MILK TEA",
-        "name": "Cimory Susu UHT Milk Tea 250 ml",
-        "normal": 7500.0,
+        "id": "120GR - SQ/STRAWBERRY",
+        "name": "Cimory Yogurt Squeeze Stroberi 120 g",
+        "normal": 10500.0,
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
-        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "id": "120GR - SQ BITES/YUZU",
+        "name": "Cimory Yogurt Bites Yuzu 120 g",
         "normal": 9300.0,
+        "promo": 4900.0
+      },
+      {
+        "id": "120GR - SQ BITES/BLUEBERRY",
+        "name": "Cimory Yogurt Bites Bluberi 120 g",
+        "normal": 8700.0,
         "promo": 7900.0
       },
       {
-        "id": "240ML - CYD/MIX FRUIT",
-        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
-        "normal": 9100.0,
+        "id": "250ML - MILK/MATCHA",
+        "name": "Cimory Susu UHT Matcha 250 ml",
+        "normal": 7800.0,
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
-        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
-        "normal": 9300.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 7700.0,
+        "id": "250ML - MILK/CHOCOLATE",
+        "name": "Cimory Susu UHT Cokelat 250 ml",
+        "normal": 8000.0,
         "promo": ""
       },
       {
@@ -54810,6 +55042,60 @@
         "promo": ""
       },
       {
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
+        "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MILK TEA",
+        "name": "Cimory Susu UHT Milk Tea 250 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
+        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "normal": 9300.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "240ML - CYD/MIX FRUIT",
+        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY LYCHEE",
+        "name": "Cimory Yogurt Bites Stroberi Leci 120 g",
+        "normal": 9300.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 7700.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CASHEW",
+        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
+        "normal": 8000.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/CHOCO MALT",
+        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
+        "normal": 8100.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/HAZELNUT",
+        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
+        "normal": 8000.0,
+        "promo": ""
+      },
+      {
         "id": "40GR - STICKPACK/MANGO STICKY RICE",
         "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
         "normal": 3200.0,
@@ -54834,21 +55120,21 @@
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CASHEW",
-        "name": "Cimory Susu UHT Cokelat Cashew Kotak 250 ml",
-        "normal": 8000.0,
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 8300.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "225ML - MILK ZERO SUGAR/ALMOND",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
+        "normal": 7500.0,
         "promo": ""
       },
       {
-        "id": "250ML - MILK/CHOCO MALT",
-        "name": "Cimory Susu UHT Malt Cokelat Kotak 250 ml",
-        "normal": 8100.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/HAZELNUT",
-        "name": "Cimory Susu UHT Cokelat Hazelnut Kotak 250 ml",
-        "normal": 8000.0,
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 9100.0,
         "promo": ""
       },
       {
@@ -54888,21 +55174,15 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "id": "80GR - EAT MILK/HAZELNUT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
         "normal": 8300.0,
         "promo": 6900.0
       },
       {
-        "id": "225ML - MILK ZERO SUGAR/ALMOND",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 9100.0,
+        "id": "240ML - CYD ZERO/TROPICAL FRUIT",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -54916,18 +55196,6 @@
         "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
         "normal": 7900.0,
         "promo": 6900.0
-      },
-      {
-        "id": "80GR - EAT MILK/HAZELNUT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
-        "normal": 8300.0,
-        "promo": 6900.0
-      },
-      {
-        "id": "240ML - CYD ZERO/TROPICAL FRUIT",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
-        "normal": 8500.0,
-        "promo": ""
       },
       {
         "id": "250ML - MILK/STRAWBERRY",
@@ -54948,12 +55216,6 @@
         "promo": ""
       },
       {
-        "id": "48GR - SINGLES BAKSO/ORIGINAL",
-        "name": "Kanzler Bakso Original 48 g",
-        "normal": 9200.0,
-        "promo": 8900.0
-      },
-      {
         "id": "48GR - SINGLES BAKSO/KEJU",
         "name": "Kanzler Bakso Keju 48 g",
         "normal": 9200.0,
@@ -54966,22 +55228,16 @@
         "promo": 8900.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
-        "name": "Kanzler Singles Bakso Gochujang 55 g",
+        "id": "48GR - SINGLES BAKSO/ORIGINAL",
+        "name": "Kanzler Bakso Original 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "id": "55GR - SINGLES BAKSO/GOCHUJANG",
+        "name": "Kanzler Singles Bakso Gochujang 55 g",
         "normal": 9200.0,
-        "promo": ""
-      },
-      {
-        "id": "60GR - SINGLES SOSIS/MINI",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
-        "normal": 9200.0,
-        "promo": ""
+        "promo": 8900.0
       },
       {
         "id": "60GR - SINGLES SOSIS/ORIGINAL",
@@ -55004,6 +55260,18 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/MINI",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Mini 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -55051,6 +55319,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5065516",
+    "longitude": "124.9800225",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -55463,6 +55733,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.489620895",
+    "longitude": "124.9754935",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -55580,12 +55852,6 @@
         "promo": 7900.0
       },
       {
-        "id": "250ML - MILK/THAI TEA",
-        "name": "Cimory Susu UHT Thai Tea 250 ml",
-        "normal": 7500.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ BITES/BERRY BLEND",
         "name": "Cimory Yogurt Bites Berry Blend 120 g",
         "normal": 8700.0,
@@ -55643,6 +55909,12 @@
         "id": "250ML - MILK/TIRAMISU",
         "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
         "normal": 8000.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/THAI TEA",
+        "name": "Cimory Susu UHT Thai Tea 250 ml",
+        "normal": 7500.0,
         "promo": ""
       },
       {
@@ -55875,6 +56147,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4845640",
+    "longitude": "124.9737310",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -55962,12 +56236,6 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/BLUEBERRY",
-        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
         "id": "125ML - MILK/CHOCOLATE",
         "name": "Cimory Susu UHT Cokelat Kotak 125 ml",
         "normal": 3700.0,
@@ -56028,6 +56296,12 @@
         "promo": 15300.0
       },
       {
+        "id": "250ML - MILK/TIRAMISU",
+        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
+        "normal": 8000.0,
+        "promo": ""
+      },
+      {
         "id": "120GR - SQ/BROWN SUGAR",
         "name": "Cimory Yogurt Squeeze Brown Sugar 120 g",
         "normal": 10500.0,
@@ -56046,9 +56320,9 @@
         "promo": 7900.0
       },
       {
-        "id": "250ML - MILK/TIRAMISU",
-        "name": "Cimory Susu UHT Cokelat Tiramisu 250 ml",
-        "normal": 8000.0,
+        "id": "40GR - STICKPACK/BLUEBERRY",
+        "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -56287,6 +56561,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.478923086",
+    "longitude": "124.9720558",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -56476,15 +56752,15 @@
         "promo": ""
       },
       {
-        "id": "40GR - STICKPACK/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
-        "normal": 3200.0,
-        "promo": ""
-      },
-      {
         "id": "250ML - MILK/ALMOND",
         "name": "Cimory Susu UHT Cokelat Almond Kotak 250 ml",
         "normal": 7700.0,
+        "promo": ""
+      },
+      {
+        "id": "40GR - STICKPACK/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Stik Rasa Ketan Mangga 40 g",
+        "normal": 3200.0,
         "promo": ""
       },
       {
@@ -56699,6 +56975,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.473165183",
+    "longitude": "124.9693626",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -57111,6 +57389,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4622375",
+    "longitude": "124.9657656",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -57426,14 +57706,14 @@
         "promo": 8900.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
+        "id": "48GR - SINGLES BAKSO/KEJU",
+        "name": "Kanzler Bakso Keju 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/KEJU",
-        "name": "Kanzler Bakso Keju 48 g",
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
@@ -57523,6 +57803,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.500868757",
+    "longitude": "124.9190517",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -57886,12 +58168,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/KEJU",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9200.0,
@@ -57922,6 +58198,12 @@
         "promo": ""
       },
       {
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
         "id": "60GR - SINGLES SOSIS/TOMYUM",
         "name": "Kanzler Singles Sosis Sapi & Ayam Tom Yum 60 g",
         "normal": 0.0,
@@ -57935,6 +58217,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.493368958",
+    "longitude": "124.9217791",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -58347,6 +58631,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4864680",
+    "longitude": "124.9157648",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -58753,6 +59039,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.3954620",
+    "longitude": "125.0464145",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -59165,6 +59453,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.3981387",
+    "longitude": "125.0525219",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -59577,6 +59867,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.414020017",
+    "longitude": "125.0918386",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -59694,12 +59986,6 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD/MIX FRUIT",
-        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
         "id": "40GR - STICKPACK/ORIGINAL",
         "name": "Cimory Yogurt Stik Rasa Original 40 g",
         "normal": 3200.0,
@@ -59740,6 +60026,12 @@
         "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
         "normal": 17500.0,
         "promo": 15300.0
+      },
+      {
+        "id": "240ML - CYD/MIX FRUIT",
+        "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
+        "normal": 9100.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/ALMOND",
@@ -59856,15 +60148,15 @@
         "promo": ""
       },
       {
-        "id": "80GR - EAT MILK/HAZELNUT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
-        "normal": 8300.0,
-        "promo": 6900.0
-      },
-      {
         "id": "80GR - EAT MILK/MARIE BISCUIT",
         "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
         "normal": 7900.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "80GR - EAT MILK/HAZELNUT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
+        "normal": 8300.0,
         "promo": 6900.0
       },
       {
@@ -59989,6 +60281,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.427126787",
+    "longitude": "125.1136164",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -60082,12 +60376,6 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD/MIXED BERRY",
-        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
         "id": "40GR - STICKPACK/BLUEBERRY",
         "name": "Cimory Yogurt Stik Rasa Bluberi 40 g",
         "normal": 3200.0,
@@ -60164,6 +60452,12 @@
         "name": "Cimory Susu UHT Cokelat Kotak 750 ml",
         "normal": 17500.0,
         "promo": 15300.0
+      },
+      {
+        "id": "240ML - CYD/MIXED BERRY",
+        "name": "Cimory Minuman Yogurt Mixed Berry 240 ml",
+        "normal": 9100.0,
+        "promo": ""
       },
       {
         "id": "250ML - MILK/ALMOND",
@@ -60401,6 +60695,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.434250812",
+    "longitude": "125.120874",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -60813,6 +61109,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4374673",
+    "longitude": "125.1227428",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -60864,12 +61162,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/ORIGINAL",
-        "name": "Cimory Yogurt Squeeze Original 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
         "id": "120GR - SQ/BLUEBERRY",
         "name": "Cimory Yogurt Squeeze Bluberi 120 g",
         "normal": 10500.0,
@@ -60886,6 +61178,12 @@
         "name": "Cimory Yogurt Bites Yuzu 120 g",
         "normal": 9300.0,
         "promo": 4900.0
+      },
+      {
+        "id": "120GR - SQ/ORIGINAL",
+        "name": "Cimory Yogurt Squeeze Original 120 g",
+        "normal": 10500.0,
+        "promo": ""
       },
       {
         "id": "120GR - SQ BITES/BLUEBERRY",
@@ -61164,12 +61462,6 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
-        "normal": 9200.0,
-        "promo": ""
-      },
-      {
         "id": "60GR - SINGLES SOSIS/KEJU",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
         "normal": 9200.0,
@@ -61178,6 +61470,12 @@
       {
         "id": "60GR - SINGLES SOSIS/KEJU 2X",
         "name": "Kanzler Singles Sosis Sapi & Ayam Keju 65 g",
+        "normal": 9200.0,
+        "promo": ""
+      },
+      {
+        "id": "60GR - SINGLES SOSIS/GOCHUJANG",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Gochujang 60 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -61225,6 +61523,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4387074",
+    "longitude": "125.1245631",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -61462,12 +61762,6 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/BLUEBERRY",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
-        "normal": 8500.0,
-        "promo": ""
-      },
-      {
         "id": "225ML - MILK ZERO SUGAR/ALMOND",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
@@ -61489,6 +61783,12 @@
         "id": "225ML - MILK ZERO/MATCHA",
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
         "normal": 7500.0,
+        "promo": ""
+      },
+      {
+        "id": "240ML - CYD ZERO/BLUEBERRY",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Blueberry 240 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -61612,14 +61912,14 @@
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/HOT",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
+        "id": "60GR - SINGLES SOSIS/ORIGINAL",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
         "normal": 9200.0,
         "promo": ""
       },
       {
-        "id": "60GR - SINGLES SOSIS/ORIGINAL",
-        "name": "Kanzler Singles Sosis Sapi & Ayam Original 65 g",
+        "id": "60GR - SINGLES SOSIS/HOT",
+        "name": "Kanzler Singles Sosis Sapi & Ayam Pedas 65 g",
         "normal": 9200.0,
         "promo": ""
       },
@@ -61637,6 +61937,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.44128456",
+    "longitude": "125.1239491",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -62049,6 +62351,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4400377",
+    "longitude": "125.1314704",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -62461,6 +62765,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.442313613",
+    "longitude": "125.1325905",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -62873,6 +63179,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.439062582",
+    "longitude": "125.1350622",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -63285,6 +63593,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.436903567",
+    "longitude": "125.1295401",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -63697,6 +64007,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.429751087",
+    "longitude": "125.1231714",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -64109,6 +64421,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5398125",
+    "longitude": "124.9111875",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -64521,6 +64835,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5447645",
+    "longitude": "124.9192222",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -64933,6 +65249,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.542784325",
+    "longitude": "124.9192658",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -65345,6 +65663,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.533900226",
+    "longitude": "124.9346516",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -65757,6 +66077,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.526475562",
+    "longitude": "124.9212876",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -66169,6 +66491,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.511268193",
+    "longitude": "124.9129844",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -66298,12 +66622,6 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ/MANGO STICKY RICE",
-        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
-        "normal": 10500.0,
-        "promo": ""
-      },
-      {
         "id": "40GR - STICKPACK/GRAPE",
         "name": "Cimory Yogurt Stik Anggur Kyoho 40 g",
         "normal": 3000.0,
@@ -66337,6 +66655,12 @@
         "id": "40GR - STICKPACK/STRAWBERRY",
         "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
         "normal": 3200.0,
+        "promo": ""
+      },
+      {
+        "id": "120GR - SQ/MANGO STICKY RICE",
+        "name": "Cimory Yogurt Squeeze Ketan Mangga 120 g",
+        "normal": 10500.0,
         "promo": ""
       },
       {
@@ -66581,6 +66905,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5096059",
+    "longitude": "124.9101352",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -66647,6 +66973,12 @@
         "id": "120GR - SQ/STRAWBERRY",
         "name": "Cimory Yogurt Squeeze Stroberi 120 g",
         "normal": 10500.0,
+        "promo": ""
+      },
+      {
+        "id": "250ML - MILK/MARIE REGAL",
+        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
+        "normal": 7700.0,
         "promo": ""
       },
       {
@@ -66737,12 +67069,6 @@
         "id": "240ML - CYD/MIX FRUIT",
         "name": "Cimory Minuman Yogurt Mix Fruits 240 ml",
         "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "250ML - MILK/MARIE REGAL",
-        "name": "Cimory Susu UHT Biskuit Marie 250 ml",
-        "normal": 7700.0,
         "promo": ""
       },
       {
@@ -66993,8 +67319,22 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.526805455",
+    "longitude": "124.8743117",
     "last_updated": "2026-01-25",
     "products": [
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY",
+        "name": "Cimory Yogurt Bites Stroberi 120 g",
+        "normal": 9300.0,
+        "promo": 7900.0
+      },
+      {
+        "id": "240ML - CYD/STRAWBERRY",
+        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
+        "normal": 9300.0,
+        "promo": ""
+      },
       {
         "id": "250ML - MILK/CHOCOLATE",
         "name": "Cimory Susu UHT Cokelat 250 ml",
@@ -67047,18 +67387,6 @@
         "id": "250ML - MILK/MATCHA",
         "name": "Cimory Susu UHT Matcha 250 ml",
         "normal": 7800.0,
-        "promo": ""
-      },
-      {
-        "id": "120GR - SQ BITES/STRAWBERRY",
-        "name": "Cimory Yogurt Bites Stroberi 120 g",
-        "normal": 9300.0,
-        "promo": 7900.0
-      },
-      {
-        "id": "240ML - CYD/STRAWBERRY",
-        "name": "Cimory Minuman Yogurt Stroberi 240 ml",
-        "normal": 9300.0,
         "promo": ""
       },
       {
@@ -67194,6 +67522,24 @@
         "promo": ""
       },
       {
+        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
+        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
+        "normal": 9100.0,
+        "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/MACHA",
+        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
+        "normal": 7500.0,
+        "promo": 6900.0
+      },
+      {
+        "id": "225ML - MILK ZERO/MATCHA",
+        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
+        "normal": 7500.0,
+        "promo": ""
+      },
+      {
         "id": "65ML - B4/STRAWBERRY",
         "name": "Cimory Minuman Yogurt Mini Stroberi 4 x 65 ml",
         "normal": 8000.0,
@@ -67230,21 +67576,15 @@
         "promo": ""
       },
       {
-        "id": "240ML - CYD ZERO/STRAWBERRY MANGO",
-        "name": "Cimory Minuman Yogurt Low Fat Stroberi & Mangga 240 ml",
-        "normal": 9100.0,
-        "promo": ""
-      },
-      {
-        "id": "80GR - EAT MILK/MACHA",
-        "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
-        "normal": 7500.0,
+        "id": "80GR - EAT MILK/HAZELNUT",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
+        "normal": 8300.0,
         "promo": 6900.0
       },
       {
-        "id": "225ML - MILK ZERO/MATCHA",
-        "name": "Cimory Susu UHT Tanpa Gula Tambahan Matcha 225 ml",
-        "normal": 7500.0,
+        "id": "240ML - CYD ZERO/TROPICAL FRUIT",
+        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
+        "normal": 8500.0,
         "promo": ""
       },
       {
@@ -67258,18 +67598,6 @@
         "name": "Cimory Eat Milk Puding Susu Rasa Marie Biskuit 80 g",
         "normal": 7900.0,
         "promo": 6900.0
-      },
-      {
-        "id": "80GR - EAT MILK/HAZELNUT",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat Hazelnut 80 g",
-        "normal": 8300.0,
-        "promo": 6900.0
-      },
-      {
-        "id": "240ML - CYD ZERO/TROPICAL FRUIT",
-        "name": "Cimory Minuman Yogurt Tanpa Gula Tambahan Tropical Fruits 240 ml",
-        "normal": 8500.0,
-        "promo": ""
       },
       {
         "id": "120GR - SQ BITES/YUZU",
@@ -67320,6 +67648,12 @@
         "promo": 8900.0
       },
       {
+        "id": "450GR - NUGGET/CHICKEN NUGGET",
+        "name": "Kanzler Naget Ayam Original 450 g",
+        "normal": 57900.0,
+        "promo": ""
+      },
+      {
         "id": "55GR - SINGLES BAKSO/GOCHUJANG",
         "name": "Kanzler Singles Bakso Gochujang 55 g",
         "normal": 9200.0,
@@ -67338,21 +67672,15 @@
         "promo": ""
       },
       {
-        "id": "450GR - NUGGET/CHICKEN NUGGET",
-        "name": "Kanzler Naget Ayam Original 450 g",
-        "normal": 57900.0,
+        "id": "450GR - NUGGET/CRISPY STICK",
+        "name": "Kanzler Naget Ayam Krispi Pedas 450 g",
+        "normal": 61900.0,
         "promo": ""
       },
       {
         "id": "450GR - NUGGET/CRISPY SPICY",
         "name": "Kanzler Stik Naget Ayam Krispi 450 g",
         "normal": 59200.0,
-        "promo": ""
-      },
-      {
-        "id": "450GR - NUGGET/CRISPY STICK",
-        "name": "Kanzler Naget Ayam Krispi Pedas 450 g",
-        "normal": 61900.0,
         "promo": ""
       },
       {
@@ -67405,6 +67733,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5449928",
+    "longitude": "124.8713411",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -67811,6 +68141,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.5668125",
+    "longitude": "124.8744375",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -67970,16 +68302,16 @@
         "promo": ""
       },
       {
-        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
-        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
-        "normal": 9300.0,
-        "promo": 7900.0
-      },
-      {
         "id": "40GR - STICKPACK/STRAWBERRY",
         "name": "Cimory Yogurt Stik Rasa Stroberi 40 g",
         "normal": 3200.0,
         "promo": ""
+      },
+      {
+        "id": "120GR - SQ BITES/STRAWBERRY MANGO",
+        "name": "Cimory Yogurt Bites Stroberi Mangga 120 g",
+        "normal": 9300.0,
+        "promo": 7900.0
       },
       {
         "id": "250ML - MILK/ALMOND",
@@ -68030,12 +68362,6 @@
         "promo": 4000.0
       },
       {
-        "id": "80GR - EAT MILK/CHOCOLATE",
-        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
-        "normal": 8300.0,
-        "promo": 6900.0
-      },
-      {
         "id": "80GR - EAT MILK/MACHA",
         "name": "Cimory Eat Milk Puding Susu Rasa Matcha 80 g",
         "normal": 7500.0,
@@ -68070,6 +68396,12 @@
         "name": "Cimory Susu UHT Tanpa Gula Tambahan Almond 225 ml",
         "normal": 7500.0,
         "promo": ""
+      },
+      {
+        "id": "80GR - EAT MILK/CHOCOLATE",
+        "name": "Cimory Eat Milk Puding Susu Rasa Cokelat 80 g",
+        "normal": 8300.0,
+        "promo": 6900.0
       },
       {
         "id": "80GR - EAT MILK/HAZELNUT",
@@ -68223,6 +68555,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4877932",
+    "longitude": "124.8411006",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -68629,6 +68963,8 @@
     "fc_code": "1YZ1",
     "branch_name": "MANADO",
     "mds_name": "YOHANDI",
+    "latitude": "1.4802221",
+    "longitude": "124.8938277",
     "last_updated": "2026-01-25",
     "products": [
       {
@@ -68932,14 +69268,14 @@
         "promo": 4000.0
       },
       {
-        "id": "55GR - SINGLES BAKSO/HOT",
-        "name": "Kanzler Bakso Pedas 48 g",
+        "id": "48GR - SINGLES BAKSO/ORIGINAL",
+        "name": "Kanzler Bakso Original 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
       {
-        "id": "48GR - SINGLES BAKSO/ORIGINAL",
-        "name": "Kanzler Bakso Original 48 g",
+        "id": "55GR - SINGLES BAKSO/HOT",
+        "name": "Kanzler Bakso Pedas 48 g",
         "normal": 9200.0,
         "promo": 8900.0
       },
