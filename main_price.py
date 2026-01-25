@@ -48,7 +48,7 @@ def make_api_request(store_info, token, keyword):
     return None
 
 def main():
-    print("Memulai Scraper Harga (Versi Store Index)...")
+    print("Memulai Scraper Harga (v3 - Fix Lat/Lon & Store Index)...")
     try:
         config = requests.get(APPS_SCRIPT_URL, timeout=30).json()
     except Exception as e:
@@ -69,11 +69,38 @@ def main():
     sheet_data.append(header_row)
     
     branch_data_map = {}
-    store_index_map = {} 
+    store_index_map = {}
 
     current_date = datetime.now().strftime('%Y-%m-%d')
     token_idx = 0
 
+    # Tahap 1: Pra-pemrosesan untuk membangun struktur data dan index
+    print("Membangun struktur data dan index toko...")
+    for store in stores:
+        store_id = store['store_code']
+        b_name = store.get('branch_name', 'N/A').strip().upper()
+        branch_filename = f"{b_name.replace(' ', '_')}.json"
+        
+        store_index_map[store_id] = branch_filename
+
+        if b_name not in branch_data_map:
+            branch_data_map[b_name] = {}
+
+        if store_id not in branch_data_map[b_name]:
+            branch_data_map[b_name][store_id] = {
+                "store_code": store_id,
+                "store_name": store['store_name'],
+                "fc_code": store.get('fc_code', 'N/A'),
+                "branch_name": b_name,
+                "mds_name": store.get('mds_name', 'N/A'),
+                "latitude": store.get('latitude', None),
+                "longitude": store.get('longitude', None),
+                "last_updated": current_date,
+                "products": []
+            }
+    
+    # Tahap 2: Scraping data
+    print(f"Memulai scraping untuk {len(stores)} toko...")
     for i in range(0, len(stores), 5):
         batch = stores[i:i+5]
         print(f"\n--- Batch {i//5 + 1} ---")
@@ -82,27 +109,9 @@ def main():
             token_idx += 1
             store_results_count = 0
             
+            store_id = store['store_code']
             b_name = store.get('branch_name', 'N/A').strip().upper()
             m_name = store.get('mds_name', 'N/A')
-            store_id = store['store_code']
-            
-            branch_filename = f"{b_name.replace(' ', '_')}.json"
-            
-            store_index_map[store_id] = branch_filename
-
-            if b_name not in branch_data_map:
-                branch_data_map[b_name] = {}
-
-            if store_id not in branch_data_map[b_name]:
-                branch_data_map[b_name][store_id] = {
-                    "store_code": store_id,
-                    "store_name": store['store_name'],
-                    "fc_code": store['fc_code'],
-                    "branch_name": b_name,
-                    "mds_name": m_name,
-                    "last_updated": current_date,
-                    "products": []
-                }
 
             for kw in KEYWORDS:
                 api_res = make_api_request(store, token, kw)
@@ -118,16 +127,18 @@ def main():
                             ids = product_map[name]
                             for pid in ids:
                                 sheet_data.append([
-                                    current_date, store_id, store['store_name'], store['fc_code'],
+                                    current_date, store_id, store['store_name'], store.get('fc_code', 'N/A'),
                                     pid, name, harga_normal, harga_promo, b_name, m_name
                                 ])
                                 
-                                branch_data_map[b_name][store_id]["products"].append({
-                                    "id": pid,
-                                    "name": name,
-                                    "normal": harga_normal,
-                                    "promo": harga_promo
-                                })
+                                # Cek dulu apakah branch dan store ada di map (seharusnya selalu ada)
+                                if b_name in branch_data_map and store_id in branch_data_map[b_name]:
+                                    branch_data_map[b_name][store_id]["products"].append({
+                                        "id": pid,
+                                        "name": name,
+                                        "normal": harga_normal,
+                                        "promo": harga_promo
+                                    })
                                 store_results_count += 1
             
             print(f"Toko {store_id}: {store_results_count} data harga ditarik.")
@@ -137,21 +148,24 @@ def main():
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
     
-    print(f"\nMenyimpan data JSON ke folder '{OUTPUT_DIR}'...")
+    # Tahap 3: Simpan semua file
+    print(f"\nMenyimpan semua file JSON ke folder '{OUTPUT_DIR}'...")
+    # Simpan JSON per Branch
     for branch, store_dict in branch_data_map.items():
         filename = f"{branch.replace(' ', '_')}.json"
         filepath = os.path.join(OUTPUT_DIR, filename)
         final_branch_list = list(store_dict.values())
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(final_branch_list, f, indent=2, ensure_ascii=False)
-        print(f"- {filepath} berhasil dibuat.")
+        print(f"- {filepath} berhasil dibuat/diupdate.")
 
+    # Simpan Store Index JSON
     index_filepath = os.path.join(OUTPUT_DIR, "store_index.json")
-    print(f"\nMenyimpan Index Toko ke '{index_filepath}'...")
     with open(index_filepath, 'w', encoding='utf-8') as f:
         json.dump(store_index_map, f, indent=2, ensure_ascii=False)
-    print(f"- {index_filepath} berhasil dibuat.")
+    print(f"- {index_filepath} berhasil dibuat/diupdate.")
 
+    # Kirim ke Apps Script
     print(f"\nMengirim {len(sheet_data)-1} baris ke Google Sheet...")
     try:
         res = requests.post(APPS_SCRIPT_URL, json={'data': sheet_data}, timeout=120)
